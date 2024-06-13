@@ -1,0 +1,1457 @@
+id,level,board,duration
+1,Ten Plus Two (+2) Science,National Examinations Board,2 years
+2,Ten Plus Two (+2) Management,National Examinations Board,2 years
+3,GCE A Level Non-Science (A Level Non-Science),Cambridge GCE A Levels,2 years
+4,GCE A Level Science (A Level Science),Cambridge GCE A Levels,2 years
+5,Ten Plus Two (+2) Humanities,National Examinations Board,2 years
+6,Bachelor in Business Studies (BBS),Tribhuvan University,4 years
+7,Ten Plus Two (+2) Law,National Examinations Board,2 years
+8,Master of Business Studies (MBS),Tribhuvan University,2 years
+9,Bachelor of Computer Application (BCA),Tribhuvan University,4 years
+10,Bachelor of Arts in Social Work (BASW),Tribhuvan University,4 years
+11,Bachelor of Business Management (BBM),Tribhuvan University,4 years
+12,Bachelor of Business Administration (BBA),Tribhuvan University,4 years
+13,Bachelor of Arts (BA),Tribhuvan University,4 years
+14,Bachelor of Business Administration (BBA),Pokhara University,4 years
+15,BSc Computer Science and Information Technology (BSc CSIT),Tribhuvan University,4 years
+16,Bachelor of Information Management (BIM),Tribhuvan University,4 years
+17,BSc Microbiology,Tribhuvan University,4 years
+18,Bachelor of Civil Engineering (BE Civil),Tribhuvan University,4 years
+19,Bachelor of Computer Engineering (BE),Tribhuvan University,4 years
+20,MA in English (MA English),Tribhuvan University,2 years
+21,BSc Physics,Tribhuvan University,4 years
+22,MSc Microbiology,Tribhuvan University,2 years
+23,Bachelor of Education (BEd),Tribhuvan University,4 years
+24,"Bachelor of Electronics, Communication and Information Engineering (BE)",Tribhuvan University,4 years
+25,Bachelor of Business Administration (BBA),Purbanchal University,4 years
+26,Bachelor of Electronics and Communication Engineering (BE),Pokhara University,4 years
+27,Master of Business Administration (MBA),Purbanchal University,2 years
+28,MSc Environmental Science,Tribhuvan University,2 years
+29,Bachelor of Architecture (B.Arch),Pokhara University,5 years
+30,Bachelor of Engineering in Information Technology (BE IT),Pokhara University,4 years
+31,Diploma in Civil Engineering,CTEVT,3 years
+32,Diploma in Architecture Engineering,CTEVT,3 years
+33,Diploma in Pharmacy,CTEVT,3 years
+34,MA in Economics (MA Economics),Tribhuvan University,2 years
+35,Master of Business Administration (MBA),Pokhara University,2 years
+36,Bachelor of Computer Application (BCA),Pokhara University,4 years
+37,Bachelor of Pharmacy (B Pharm),Pokhara University,4 years
+38,Bachelor of Public Health (BPH),Purbanchal University,4 years
+39,Ten Plus Two (+2) Education,National Examinations Board,2 years
+40,Bachelor of Information Technology (BIT),"Nilai University, Malaysia",4 years
+41,Bachelor of Electrical and Electronics Engineering,Pokhara University,4 years
+42,MSc in Geographical Information Science and Systems,Salzburg University of Applied Sciences,2 years
+43,Bachelor in Business Administration (BBA),"Westcliff University, CA, USA",4 years
+44,BA in International Hospitality and Tourism Management (BHM),Queen Margaret University (UK),4 years
+45,Bachelor in Hospitality Management (BHM),Kathmandu University,4 years
+46,BSc (Hons) Computing,"University of Northampton, UK",3 years
+47,MSc in Information System Engineering,Purbanchal University,2 years
+48,MSc in Engineering Management,Purbanchal University,2 years
+49,BSc (Hons) Environmental Science (BES),"University of Northampton, UK",3 years
+50,BBA (Hons) Business and Management,"University of the West of England, UK",4 years
+51,BSc Forestry,Tribhuvan University,4 years
+52,Bachelor of Architecture (B.Arch),Purbanchal University,5 years
+53,Master of Business Administration (MBA),"Limkokwing University, Malaysia",2 years
+54,Master of Computer Engineering,Pokhara University,2 years
+55,Master in Business Administration (MBA),"Westcliff University, CA, USA",2 years
+56,Master in Crisis Management Studies (MCMS),Tribhuvan University,2 years
+57,Diploma in Computer Engineering,CTEVT,3 years
+58,Master of Science in Construction Management,Pokhara University,2 years
+59,Diploma in Electrical Engineering,CTEVT,3 years
+60,Diploma in Electrical and Electronics Engineering,CTEVT,3 years
+61,MSc in Natural Resources Management and Rural Development,Pokhara University,2 years
+62,MSc in Computer Science,Pokhara University,2 years
+63,Bachelor in Development Finance,Kathmandu University,4 years
+64,MBA (Executive),"Leeds Beckett University, UK",2 years
+65,Bachelor of Social Sciences,Kathmandu University,4 years
+66,Bachelor in Development Studies,Kathmandu University,4 years
+67,MBA (Global Business),Pokhara University,2 years
+68,FHS Diploma in Hotel Management (BHM),Salzburg University of Applied Sciences,3 years
+69,Bachelor of Business in Hospitality Management (Hons) (BHM),HELP University,4 years
+70,MSc International Business Management (MIBM),"University of the West of England, UK",2 years
+71,BSc (Hons) Computing,"Leeds Beckett University, UK",4 years
+72,Diploma in Forestry,CTEVT,3 years
+73,BBA in Travel and Tourism (BBA-TT),Pokhara University,4 years
+74,Bachelor of Hotel Management (BHM),Tribhuvan University,4 years
+75,MA in English,Pokhara University,2 years
+76,Bachelor in Civil Engineering (For Diploma Holders),Pokhara University,4 years 6 months
+77,MPhil in English,Pokhara University,1 year 6 months
+78,Certificate in Medical Laboratory Technology (CMLT),CTEVT,3 years
+79,Bachelor of Education in Information Communication Technology (BICTE),Tribhuvan University,4 years
+80,Bachelor of Business Administration (BBA),Mid-West University,4 years
+81,MSc in Transportation Engineering and Management,Pokhara University,2 years
+82,MSc in Interdisciplinary Water Resources Management,Pokhara University,2 years
+83,Master of Computer Information Systems (MCIS),Pokhara University,2 years
+84,MSc in Natural Resource Management and Rural Development,Tribhuvan University,2 years
+85,Bachelor of Business Administration (BBA),Kathmandu University,4 years
+86,Bachelor in Development Studies (BDevS),Pokhara University,4 years
+87,BA (Hons) in Business and Hospitality Management (BABHM),"Nilai University, Malaysia",4 years
+88,Masters in Counseling Psychology (MCP),Tribhuvan University,2 years
+89,Bachelor of Mountain Tourism Management (BMTM),Tribhuvan University,4 years
+90,Master of Business Administration (MBA),"University of Northampton, UK",2 years
+91,Bachelor of Business Administration (BBA),"University of Northampton, UK",3 years
+92,BSc (Hons) in Information Technology (BSc IT),Asia Pacific University of Technology & Innovation,3 years
+93,BSc (Hons) in Computer Science & Software Engineering,University of Bedfordshire,3 years
+94,Bachelor in Business Administration (Hons) (BBA),University of Bedfordshire,3 years
+95,BSc IT Network Computing,Asia Pacific University of Technology & Innovation,3 years
+96,Bachelor of Business Management (Hons),Asia Pacific University of Technology & Innovation,3 years
+97,MSc in Information Technology (MSc IT),Asia Pacific University of Technology & Innovation,2 years
+98,Master of Business Administration (MBA),Asia Pacific University of Technology & Innovation,2 years
+99,BBM (Hons) - E Business,Asia Pacific University of Technology & Innovation,3 years
+100,BSc (Hons) Network Engineering,"University of Northampton, UK",3 years
+101,BSc (Hons) Software Engineering,"University of Northampton, UK",3 years
+102,MBA Entrepreneurship,"Westcliff University, CA, USA",2 years
+103,MBA Nonprofit,"Westcliff University, CA, USA",2 years
+104,MBA Agribusiness,"Westcliff University, CA, USA",2 years
+105,BBA Digital Marketing,"Westcliff University, CA, USA",4 years
+106,BBA Investment and Economics,"Westcliff University, CA, USA",4 years
+107,Bachelor of Hotel Management (BHM),Mid-West University,4 years
+108,Bachelor of Travel and Tourism Management (BTTM),Mid-West University,4 years
+109,BSc (Hons) Computing,"Coventry University, UK",3 years
+110,BSc (Hons) Ethical Hacking and Cybersecurity,"Coventry University, UK",3 years
+111,MSc in Information System Engineering,Pokhara University,2 years
+112,MBA (Graduate),"Leeds Beckett University, UK",2 years
+113,MSc Information and Technology,"Leeds Beckett University, UK",2 years
+114,FHS Diploma in Travel and Tourism Management (BTTM),Salzburg University of Applied Sciences,3 years
+115,MBA Technology and Innovation,"Westcliff University, CA, USA",2 years
+116,MBA Hospitality Management,Tribhuvan University,2 years
+117,BSc (Hons) Hospitality Business Management (BHM),"Leeds Beckett University, UK",4 years
+118,BSc Information Technology (BSc IT),"Westcliff University, CA, USA",4 years
+119,MSc in Information Technology (MScIT),"Westcliff University, CA, USA",2 years
+120,MSc in Information Technology Weekend (MSc. ITM),Asia Pacific University of Technology & Innovation,2 years
+121,Master of Business Administration (Weekend) (MBA-Weekend),Asia Pacific University of Technology & Innovation,2 years
+122,BSc (Hons) CSSE with Micro degree in AI,University of Bedfordshire,3 years
+123,BBA Applied Arts and Design,"Westcliff University, CA, USA",4 years
+124,Bachelor in International Culinary Arts,Queen Margaret University (UK),4 years
+125,Bachelor of Information Technology with Technopreneurship (Hons) (BIT Techno(Hons)),"Limkokwing University, Malaysia",3 years
+126,BSc (Hons) in Information Technology (B.Sc. (Hons) IT),"Limkokwing University, Malaysia",3 years
+127,BSc (Hons) International Tourism and Hospitality Management (BHM),University of Sunderland,3 years
+128,BSc (Hons) Computer Systems Engineering,University of Sunderland,3 years
+129,BA (Hons) Business and Management (BBA),University of Sunderland,3 years
+130,International Masters of Business Administration (MBA),Birmingham City University,2 years
+131,BSc (Hons) Computing and Information Technology (BSc CIT),Birmingham City University,4 years
+132,Bachelor of Business Finance (Hons) (BBA-F),HELP University,4 years
+133,BSc (Hons) IT Cloud Engineering,Asia Pacific University of Technology & Innovation,3 years
+134,BSIT Data Science,"Westcliff University, CA, USA",4 years
+135,BSc (Hons) Cyber Security and Digital Forensics,"University of the West of England, UK",
+136,Master of Computing Science (MSc Computing),"University of Northampton, UK",2 years
+137,MBA Data Analytics,"Westcliff University, CA, USA",
+138,BSc (Hons) Computer and Data Science (BCDS),Birmingham City University,4 years
+139,BA (Hons) Marketing with Digital Communication,Birmingham City University,4 years
+140,MSc Data Science and Computational Intelligence,"Coventry University, UK",
+141,Bachelor of Information Technology (Hons) (BIT),HELP University,4 years
+142,BSc (Hons) Computer Science - Artificial Intelligence,"University of the West of England, UK",4 years
+143,MPhil in Education,Tribhuvan University,1 year 6 months
+144,BE in Electrical and Electronics Engineering (BE Electrical),Kathmandu University,4 years
+145,​BA (Hons) in Fashion and Retailing,"Limkokwing University, Malaysia",3 years
+146,Foundations in Accountancy (FIA) (FIA),ACCA,1 year
+147,​BA in Interior Architecture,"Limkokwing University, Malaysia",3 years
+148,MD Dermatology,Kathmandu University,2 years
+149,MS General Surgery,Tribhuvan University,3 years
+150,Masters by Research in Energy and Infrastructure Law,Kathmandu University,2 years
+151,Master of Information Technology (MIT),Tribhuvan University,2 years
+152,Masters in Social Work (MSW),Tribhuvan University,2 years
+153,Bachelor's Degree in Geomatics Engineering,Tribhuvan University,4 years
+154,Bachelor of Engineering in Biomedical Engineering,Purbanchal University,4 years
+155,MSc in Power System Engineering,Tribhuvan University,2 years
+156,MSc Statistics,Tribhuvan University,2 years
+157,MD in Obstetrics and Gynaecology,Tribhuvan University,3 years
+158,DM Gastroenterology and Hepatology,BPKIHS,3 years
+159,Master in Human and Natural Resource Studies,Kathmandu University,2 years
+160,MA in Buddhist Studies (MA),Tribhuvan University,2 years
+161,Pre-Diploma in Water Supply and Sanitation Engineering (Sanitation Sub-overseer),CTEVT,2 years 5 months
+162,BSc in Biotechnology,Purbanchal University,4 years
+163,Bachelor of Computer Application (BCA),Purbanchal University,4 years
+164,MPhil by Research in Mathematics Education,Kathmandu University,1 year 6 months
+165,"DM Pulmonary, Critical Care and Sleep Medicine",BPKIHS,3 years
+166,MSc Clinical Microbiology,Tribhuvan University,3 years
+167,BSc Nutrition and Dietetics,Tribhuvan University,4 years
+168,MSc in Meat Technology,Purbanchal University,2 years
+169,MSc in Water Resources Engineering,Tribhuvan University,2 years
+170,"Master of Educational Sciences in Education, Planning and Management",Mid-West University,2 years
+171,BSc in Computational Mathematics,Kathmandu University,4 years
+172,Post Graduate Diploma in Computer Application (PGDCA),Purbanchal University,1 year
+173,MS Clinical Otorhinolaryngology and Head and Neck Surgery,Tribhuvan University,3 years
+174,BSc (Hons) International Business Management (BIBM),University of Wolverhampton,4 years
+175,BSc (Hons) Computer Networking and IT Security,London Metropolitan University,3 years
+176,MSc Biotechnology,Tribhuvan University,2 years
+177,MSc Human Physiology,BPKIHS,3 years
+178,MSc in Biodiversity and Environmental Management,Tribhuvan University,2 years
+179,MCh GI Surgery,BPKIHS,3 years
+180,Bachelor of Agriculture Engineering (BE),Tribhuvan University,4 years
+181,DM Nephrology,Tribhuvan University,3 years
+182,Pre-Diploma in Culinary Arts,CTEVT,1 year 6 months
+183,Master of Computer Application (MCA),Purbanchal University,2 years
+184,MSc in Rural Development Planning and Gender Studies,Purbanchal University,2 years
+185,Master in Agri-Business Management,Purbanchal University,2 years
+186,DM Nephrology,National Academy of Medical Sciences,3 years
+187,Bachelor of Hotel Management (BHM),Purbanchal University,4 years
+188,MSc Meteorology,Tribhuvan University,2 years
+189,Master of Business Administration (MBA),Lincoln University College,2 years
+190,MSc in Electrical Engineering in  Distributed Generation,Tribhuvan University,2 years
+191,MCh Plastic and Burn,National Academy of Medical Sciences,3 years
+192,Pre-Diploma in Civil Engineering (Civil Sub-Overseer) (Civil Sub-Overseer),CTEVT,1 year 3 months
+193,PCL in Homeopathy,CTEVT,3 years
+194,MSc in Structural Engineering,Pokhara University,2 years
+195,MD Radiation Oncology,National Academy of Medical Sciences,3 years
+196,DM Neurology,Kathmandu University,3 years
+197,MSc in Infrastructure Engineering and Management,Tribhuvan University,2 years
+198,Master of Business Administration (MBA),Mid-West University,2 years
+199,"10+2 Management - National Examination Board and Tourism School Salzburg, Austria",Salzburg University of Applied Sciences,2 years
+200,MPhil in Anthropology,Tribhuvan University,1 year 6 months
+201,"Bachelor in Electronics, Communication and Automation Engineering",Purbanchal University,4 years
+202,MSc in Communication and Knowledge Engineering,Tribhuvan University,2 years
+203,MSc in Physiology,Kathmandu University,2 years
+204,MSc Medical Imaging Technology (MSc MIT),Tribhuvan University,2 years
+205,Master of Public Health (MPH),Patan Academy of Health Sciences,2 years
+206,Pre-Diploma in Electronics Engineering (Electronics Sub-overseer),CTEVT,1 year 3 months
+207,Bachelor of Hotel Management (BHM),Pokhara University,4 years
+208,Bachelor of Arts in Journalism and Mass Communication (BAJM),Tribhuvan University,4 years
+209,MS by Research in Biotechnology,Kathmandu University,2 years
+210,Master Degree in Human Rights,Purbanchal University,1 year
+211,BSc Medical Biochemistry,Pokhara University,4 years
+212,Bachelor of Electrical Engineering (BE),Tribhuvan University,4 years
+213,MD Hospital Administration,BPKIHS,3 years
+214,MSc Anatomy,Kathmandu University,2 years
+215,MSc in Watershed Management,Tribhuvan University,2 years
+216,Master in Land Administration,Kathmandu University,2 years
+217,Master of Laws (LLM),Purbanchal University,2 years
+218,MA in Mass Communication and Journalism (MAMCJ),Purbanchal University,2 years
+219,Post Graduate Diploma in School Counselling (PGDSC),Tribhuvan University,1 year
+220,MD General Practice (MDGP),Tribhuvan University,3 years
+221,MSc Clinical Biochemistry,Tribhuvan University,3 years
+222,MSc in Botany,Tribhuvan University,2 years
+223,BTech in Biotechnology,Purbanchal University,4 years
+224,MBA in Global Leadership and Management (MBA),Tribhuvan University,2 years
+225,MTech Food Technology,Tribhuvan University,2 years
+226,MSc in Environmental Science and Management,Pokhara University,2 years
+227,Bachelor of Computer Engineering,Purbanchal University,4 years
+228,Master in Nursing (MN),National Academy of Medical Sciences,2 years
+229,Bachelor in Industrial Engineering (BE),Tribhuvan University,4 years
+230,MPhil in English Language Education,Kathmandu University,1 year 6 months
+231,MS General Surgery,Kathmandu University,3 years
+232,MCh Urology,Kathmandu University,3 years
+233,Pre-Diploma in Electrical Engineering (Electrical Sub-overseer),CTEVT,2 years 5 months
+234,Pre-Diploma in Mechanical Engineering (Mechanical Sub-overseer),CTEVT,2 years 5 months
+235,Junior Computer Technician (JCT),CTEVT,1 year 3 months
+236,MCh CTVS,Kathmandu University,3 years
+237,MBBS,Tribhuvan University,5 years 6 months
+238,Bachelor of Civil Engineering (BE Civil),Purbanchal University,4 years
+239,MA in Music (MA Music),Tribhuvan University,2 years
+240,Bachelor in Food and Dairy Technology,Purbanchal University,4 years
+241,Pre-Diploma in Social Mobilization,CTEVT,1 year 3 months
+242,MCh Urosurgery,BPKIHS,3 years
+243,Masters in Media Technology (MMT),Purbanchal University,2 years
+244,DM Gastroenterology,Kathmandu University,3 years
+245,MEd in Leadership and Management,Kathmandu University,2 years
+246,MSc Dairy Technology (MDT),Purbanchal University,2 years
+247,Diploma in Information Technology (DIT),CTEVT,3 years
+248,Bachelor of Mountaineering Studies (BMS),Tribhuvan University,4 years
+249,Bachelor in Economics (BECON),Kathmandu University,4 years
+250,MDS Community Dentistry,Kathmandu University,3 years
+251,MSc in Regional Development Planning and Management,Purbanchal University,2 years
+252,MS Clinical Anatomy,Tribhuvan University,
+253,Master of Tourism Studies (MTS),Purbanchal University,2 years
+254,Diploma in Hotel Management (DHM),CTEVT,3 years
+255,MSc in Pharmacology,Kathmandu University,2 years
+256,MDS Prosthodontics,Kathmandu University,3 years
+257,Bachelor of Social Work (BSW),Kathmandu University,4 years
+258,Pre-Diploma in Survey Engineering (AMIN),CTEVT,1 year 3 months
+259,MEd in Mathematics Education,Kathmandu University,2 years
+260,MD in General Practice and Emergency Medicine (MDGP),Patan Academy of Health Sciences,3 years
+261,MBBS,Kathmandu University,5 years 6 months
+262,Master of Business Administration (MBA),Kathmandu University,2 years
+263,Masters in Landscapes Management and Heritage Studies (LaMHS),Kathmandu University,2 years
+264,Master in Sustainable Development (MSD),Kathmandu University,2 years
+265,Master of Public Administration (MPA),Tribhuvan University,2 years
+266,Master in Dental Surgery (MDS),BPKIHS,3 years
+267,MDS Prosthodontics,National Academy of Medical Sciences,3 years
+268,MDS Periodontology and Oral Implantology,National Academy of Medical Sciences,3 years
+269,BBA (Hons)/BBA (Emphasis),Kathmandu University,4 years
+270,Bachelor of Business Administration (BBA),"Limkokwing University, Malaysia",4 years
+271,Post Graduate Diploma in Healthcare Management (PGDHCM),Pokhara University,1 year
+272,Bachelor of Health Care Management (BHCM),Pokhara University,4 years
+273,MBA-Evening (MBA-EP),Pokhara University,2 years
+274,MD Anaesthesiology,National Academy of Medical Sciences,3 years
+275,BSc Medical Microbiology,Pokhara University,4 years
+276,MD Psychiatry,National Academy of Medical Sciences,3 years
+277,MS Oral and Head and Neck Surgery (ENT),National Academy of Medical Sciences,3 years
+278,Bachelor of Electrical Engineering,Purbanchal University,4 years
+279,Ten Plus Two in Electrical Engineering,National Examinations Board,2 years
+280,BSc Applied Physics,Kathmandu University,4 years
+281,MD Forensic Medicine,Kathmandu University,3 years
+282,MS General Surgery,National Academy of Medical Sciences,3 years
+283,MD Clinical Physiology,Tribhuvan University,3 years
+284,Master of Travel and Tourism Management (MTTM),Tribhuvan University,2 years
+285,MS Orthopedics,Patan Academy of Health Sciences,3 years
+286,Bachelor in Automobile Engineering,Tribhuvan University,4 years
+287,MDS Orthodontics (MDS Ortho),Tribhuvan University,3 years
+288,DM Neurology,Tribhuvan University,3 years
+289,BSc in Environmental Science,Kathmandu University,4 years
+290,Diploma in Physiotherapy,CTEVT,3 years
+291,Master of Public Health (MPH),Pokhara University,2 years
+292,BSc Agriculture,Tribhuvan University,4 years
+293,Bachelor of Fine Arts (BFA),Kathmandu University,4 years
+294,MD Forensic Medicine,Tribhuvan University,3 years
+295,Diploma in Culinary Arts,,1 year
+296,MD Ayurveda (Kayachikitsa),Tribhuvan University,3 years
+297,MA in Sanskrit (MA Sanskrit),Tribhuvan University,2 years
+298,MA in Buddhism and Peace Studies,Lumbini Buddhist University,2 years
+299,BSc Hons in Agriculture,Purbanchal University,4 years
+300,MA in Buddhist Studies,Lumbini Buddhist University,2 years
+301,MD Pediatrics,Patan Academy of Health Sciences,3 years
+302,MDS Orthodontics,Kathmandu University,3 years
+303,Diploma in Agriculture (Plant Science),CTEVT,3 years
+304,BSc Environmental Science,Tribhuvan University,4 years
+305,BSc Meteorology,Tribhuvan University,4 years
+306,Bachelor of Software Engineering,Pokhara University,4 years
+307,MDS Oral Pathology,Kathmandu University,3 years
+308,BSc Agriculture (B.Sc Ag),Agriculture and Forestry University,4 years
+309,Bachelor of Mechanical Engineering (BE),Tribhuvan University,4 years
+310,Master of Business Administration (MBA),"​Infrastructure University, Kuala Lumpur",2 years
+311,Diploma in Agriculture (Animal Science),CTEVT,3 years
+312,MD Dermatology & Venereology,National Academy of Medical Sciences,3 years
+313,BE in Geomatic Engineering (BE),Kathmandu University,4 years
+314,MCh Urology,National Academy of Medical Sciences,3 years
+315,MA in History (MA History),Tribhuvan University,2 years
+316,Acharya,Nepal Sanskrit University,2 years
+317,MBBS,Patan Academy of Health Sciences,5 years 8 months
+318,MCh Neurosurgery,Tribhuvan University,3 years
+319,MCh Plastic Surgery,Tribhuvan University,3 years
+320,MA in Library Science,Tribhuvan University,2 years
+321,MA in Hindi (MA Hindi),Tribhuvan University,2 years
+322,MA in Home Science,Tribhuvan University,2 years
+323,Bachelor of Arts Bachelor of Laws (BALLB),Tribhuvan University,5 years
+324,MBBS,BPKIHS,5 years 6 months
+325,Bachelor of Homeopathic Medicine and Surgery (BHMS),Purbanchal University,5 years 6 months
+326,BSc Nursing,Pokhara University,4 years
+327,Master of Public Administration (MPA),Purbanchal University,2 years
+328,MPhil in Public Administration,Tribhuvan University,1 year 6 months
+329,MD Dermatology,Tribhuvan University,3 years
+330,MD Pathology,Tribhuvan University,3 years
+331,Diploma in Biomedical Equipment Engineering (DBEE),CTEVT,1 year 6 months
+332,PhD in Management,Kathmandu University,5 years
+333,Bachelor of Technical Education Plant Science (B.Tech.Ed.),Kathmandu University,4 years
+334,Master in Development Communication,Purbanchal University,2 years
+335,Master in Social Work (MSW),Purbanchal University,2 years
+336,Post Graduate Diploma in Buddhist Studies,Tribhuvan University,1 year
+337,Master in Development Studies (MDS),Purbanchal University,2 years
+338,Master of Pharmacy (M.Pharm),Pokhara University,2 years
+339,Bachelor in Liberal Arts and Sciences (BLAS),Purbanchal University,4 years
+340,MSc in Population and Rural Development (MSc PRD),Purbanchal University,2 years
+341,MS General surgery,Patan Academy of Health Sciences,3 years
+342,BSc Biochemistry,Pokhara University,4 years
+343,MD Community Medicine,Kathmandu University,3 years
+344,Master in Conflict and International Humanitarian Law,Purbanchal University,1 year
+345,MA in Psychology (MA Psychology),Tribhuvan University,2 years
+346,Bachelor of Laws (LLB),Tribhuvan University,3 years
+347,Diploma in Obstetrics and Gynaecology (DGO),National Academy of Medical Sciences,1 year
+348,Bachelor in International Hotel and Tourism Management,"International Management Institute, IMI, Switzerland",4 years
+349,Diploma in Mechanical Engineering (DME),CTEVT,3 years
+350,MD Obstetrics Gynaecology,Patan Academy of Health Sciences,
+351,Bachelor of Technical Education in Livestock (B.Tech Ed),Kathmandu University,4 years
+352,CAP - I,The Institute of Chartered Accountants of Nepal (ICAN),6 months
+353,MSc in Energy System Planning and Management,Tribhuvan University,2 years
+354,BSc in Forestry,Agriculture and Forestry University,4 years
+355,Post Basic Bachelor in Nursing (BNS),Purbanchal University,3 years
+356,MD Internal Medicine,Patan Academy of Health Sciences,
+357,MA in Geography (MA Geography),Tribhuvan University,2 years
+358,Post Basic Bachelor of Nursing (BNS),National Academy of Medical Sciences,3 years
+359,Bachelor of Nursing (BN),BPKIHS,2 years
+360,Diploma in Computer Hardware/Network Engineering,CTEVT,4 years
+361,MBA Finance (MBA),Pokhara University,2 years
+362,Bachelor in Nursing Science (BNS),Kathmandu University,4 years
+363,Post Graduate Diploma in Women Studies,Tribhuvan University,1 year
+364,MSc in Mathematics,Tribhuvan University,2 years
+365,MA in Buddhism and Himalayan Studies,Lumbini Buddhist University,2 years
+366,Bachelor of Nursing Science (BNS),Tribhuvan University,3 years
+367,Bachelor of Civil Engineering (BE Civil),Far-Western University,4 years
+368,MD Clinical Pharmacology,Tribhuvan University,3 years
+369,Diploma in Survey Engineering-3yrs,CTEVT,3 years
+370,Diploma in Survey Engineering-2yrs,CTEVT,2 years
+371,BSc Nursing,BPKIHS,4 years
+372,Bachelor of Computer Engineering (BE Computer),Pokhara University,4 years
+373,Master of Engineering in Earthquake,Purbanchal University,2 years
+374,MD Biochemistry,Kathmandu University,3 years
+375,Pre-Diploma in Automobile Engineering (Automobile Sub-overseer),CTEVT,1 year 3 months
+376,Post graduate Diploma in Population Studies,Tribhuvan University,10 months
+377,MA in Population Studies,Tribhuvan University,2 years
+378,PhD in Population Studies,Tribhuvan University,5 years
+379,Diploma in Automobile Engineering,CTEVT,3 years
+380,DM Cardiology,BPKIHS,3 years
+381,Bachelor of Food Technology (BTech Food),Tribhuvan University,4 years
+382,MSc in Urban Design and Conservation,Purbanchal University,2 years
+383,PhD in Botany,Tribhuvan University,4 years
+384,BSc in Environmental Management,Pokhara University,4 years
+385,DM Cardiology,Kathmandu University,3 years
+386,BSc in Computer Science,Kathmandu University,4 years
+387,MD Biochemistry,Tribhuvan University,3 years
+388,Bachelors in Veterinary Sciences and Animal Husbandry (BVSc&AH),Agriculture and Forestry University,5 years
+389,ME in Structural Engineering,Kathmandu University,2 years
+390,MPhil in Management,Kathmandu University,1 year 6 months
+391,Diploma in Geomatics Engineering,CTEVT,3 years
+392,MD Anaesthesiology,Kathmandu University,3 years
+393,Master in International Cooperation and Development (MICD),Mid-West University,2 years
+394,BSc (Hons) Computing,London Metropolitan University,3 years
+395,Diploma in Ophthalmic Science,CTEVT,3 years
+396,MA in Nepali (MA Nepali),Tribhuvan University,2 years
+397,BSc Tea Technology and Management,Tribhuvan University,4 years
+398,Post Graduate Diploma in Security Management (PGD),Kathmandu University,1 year
+399,Post Graduate Diploma in Management (PGD),Kathmandu University,1 year
+400,MA in International Relations and Diplomacy (MIR),Mid-West University,2 years
+401,BSc Nursing,Purbanchal University,4 years
+402,ME in Mechanical Engineering,Kathmandu University,2 years
+403,Bachelor of Civil Engineering,Pokhara University,4 years
+404,Bachelor (Hons) of Business Administration (BBA),Lincoln University College,4 years
+405,Bachelor of Arts in Buddhist Studies with Himalayan Language,Kathmandu University,4 years
+406,ME in Communication Engineering,Kathmandu University,2 years
+407,Bachelor in Educational Sciences in Nepali (BES-Nepali),Mid-West University,4 years
+408,MA in Development Economics (MDE),Mid-West University,2 years
+409,MSc Nutrition and Dietetics,Purbanchal University,2 years
+410,MCh Neurosurgery,Kathmandu University,3 years
+411,Post Graduate Diploma in Counseling Psychology,Tribhuvan University,1 year
+412,MD Microbiology,Kathmandu University,3 years
+413,DM Nephrology,Kathmandu University,3 years
+414,Bachelor of Arts in Social Work (BSW),Mid-West University,4 years
+415,Bachelor of Arts in Rural Development (BRD),Tribhuvan University,4 years
+416,Bachelor of Arts in Major English (BA Major English),Tribhuvan University,4 years
+417,MCh Urology,Tribhuvan University,3 years
+418,Bachelor of Arts in Sociology (BA Sociology),Tribhuvan University,4 years
+419,XI Science - CBSE,CBSE Board (Class 1-12),2 years
+420,XI Commerce - CBSE,CBSE Board (Class 1-12),2 years
+421,XI Humanities - CBSE (CBSE),CBSE Board (Class 1-12),2 years
+422,Certificate in Diagnostic Radiography,CTEVT,3 years
+423,MCh Neurosurgery,National Academy of Medical Sciences,3 years
+424,Master of Educational Sciences in Health and Physical Education,Mid-West University,4 years
+425,Bachelor of Science (General) (BSc),Tribhuvan University,4 years
+426,BA (Hons) Hospitality Management,UCSI University,4 years
+427,Master of Educational Sciences in Nepali,Mid-West University,4 years
+428,Bachelor of Arts in Music (BMus),Kathmandu University,4 years
+429,MPhil in Mathematics,Kathmandu University,1 year 6 months
+430,Master of Laws-LLM (2 Yrs) (LLM),Tribhuvan University,2 years
+431,MCh Surgical Gastroenterology,Tribhuvan University,3 years
+432,Bachelor of Civil and Rural Engineering (BE),Pokhara University,4 years 6 months
+433,MA in Journalism and Mass Communication,Tribhuvan University,2 years
+434,Diploma in Broadcasting Journalism,Purbanchal University,6 months
+435,Bachelor of Architecture (B.Arch),Tribhuvan University,5 years
+436,Bachelor of Social Work (BSW),Purbanchal University,4 years
+437,Masterof Educational Sciences in Curriculum and Evaluation,Mid-West University,2 years
+438,Bachelor of Dental Surgery (BDS),Kathmandu University,5 years 6 months
+439,MD Internal Medicine,Kathmandu University,3 years
+440,Post Graduate Diploma in Police Science,Tribhuvan University,1 year
+441,MD Internal Medicine,National Academy of Medical Sciences,3 years
+442,MEd in Information and Communication Technology Education (MEd ICTED),Tribhuvan University,2 years
+443,MCh Cardiothoracic and Vascular Surgery,Tribhuvan University,3 years
+444,MS Otorhinolaryngology,Kathmandu University,2 years
+445,MS Anatomy,Kathmandu University,3 years
+446,Master of Business Studies (MBS),Mid-West University,2 years
+447,Master of Fine Arts (MFA),Tribhuvan University,2 years
+448,MS by Research in Glaciology,Kathmandu University,2 years
+449,Bachelor in Community Development (BCD),Kathmandu University,4 years
+450,BSc Medical Laboratory Technology (BSCMLT),Pokhara University,4 years
+451,"MA in Conflict, Peace and Development Studies",Tribhuvan University,2 years
+452,BSc Geology,Tribhuvan University,4 years
+453,BSc Medical Imaging Technology (BSc MIT),BPKIHS,4 years
+454,MD Internal Medicine,Tribhuvan University,3 years
+455,Bachelor of Fine Arts (BFA),Tribhuvan University,4 years
+456,MSc in Renewable Energy Engineering,Tribhuvan University,2 years
+457,BSc Medical Imaging Technology (BSc MIT),Tribhuvan University,4 years
+458,MCh Cardiothoracic and Vascular Surgery (CTVS),National Academy of Medical Sciences,3 years
+459,Three Years LLM,Tribhuvan University,3 years
+460,MSc in Geo-Technical Engineering,Tribhuvan University,2 years
+461,Bachelor of Physiotherapy (BPT),Kathmandu University,4 years 6 months
+462,MD General Practice (MDGP),National Academy of Medical Sciences,3 years
+463,​BSc Nursing,Patan Academy of Health Sciences,4 years
+464,MA in Theravada Buddhism,Lumbini Buddhist University,2 years
+465,MCh GI Surgery,Kathmandu University,3 years
+466,MSc in Climate Change and Development,Tribhuvan University,2 years
+467,DM in Neurology,National Academy of Medical Sciences,3 years
+468,Pre-Diploma in Ayurveda (AAHW),CTEVT,1 year 3 months
+469,"Master in Population, Gender and Development (MPGD)",Pokhara University,2 years
+470,Pre-Diploma in Auxiliary Nurse Midwife (ANM),CTEVT,1 year 6 months
+471,MPhil in Economics,Tribhuvan University,1 year 6 months
+472,MA in Linguistics (MA linguistics),Tribhuvan University,2 years
+473,Bachelor of Nursing Science (BNS),Patan Academy of Health Sciences,3 years
+474,PhD in Forestry,Tribhuvan University,3 years
+475,Bachelor in Travel and Tourism Management (BTTM),Tribhuvan University,4 years
+476,MPhil in Nepali,Tribhuvan University,1 year 6 months
+477,Bachelor of Veterinary Science and Animal Husbandry (BVSc&AH),Purbanchal University,5 years
+478,PCL in Ayurveda and General Medicine,CTEVT,3 years
+479,PCL in General Medicine-Health Assistant (HA),CTEVT,3 years
+480,Diploma in Culinary Arts- Australia Course Certification,,6 months
+481,Certificate in Dental Science (Dental Hygiene),CTEVT,3 years
+482,Bachelor of Veterinary Science and Animal Husbandry (BVSc&AH),Tribhuvan University,5 years
+483,Master of Healthcare Management (MHCM),Pokhara University,2 years
+484,MPhil in English,Tribhuvan University,1 year 6 months
+485,BE in Computer Engineering (BE),Kathmandu University,4 years
+486,Master of Arts in Music (MMus),Kathmandu University,2 years
+487,Bachelor in Film Studies (BFS),Tribhuvan University,4 years
+488,MPhil in Sociology,Tribhuvan University,1 year 6 months
+489,MA in Anthropology (MA Anthropology),Tribhuvan University,2 years
+490,MD in Radio Diagnosis,Tribhuvan University,3 years
+491,MPhil in Mathematics,Tribhuvan University,1 year 6 months
+492,MPhil in Educational Leadership,Kathmandu University,1 year 6 months
+493,MPhil in Development Studies,Kathmandu University,1 year 6 months
+494,Diploma in Library and Information Centre Management,Kathmandu University,2 years 4 months
+495,MA in International Relations and Diplomacy (MIRD),Tribhuvan University,2 years
+496,MTech Biotechnology,Kathmandu University,2 years
+497,BTech Biotechnology,Kathmandu University,4 years
+498,Master in Planning and Operation of Energy Systems,Kathmandu University,2 years
+499,MA in Political Science (MA Political Science),Tribhuvan University,2 years
+500,BE in Mechanical Engineering (BE Mechanical),Kathmandu University,4 years
+501,MSc in Wildlife Management and Biodiversity Conservation,Tribhuvan University,2 years
+502,MA in Sociology,Tribhuvan University,2 years
+503,PCL in Acupuncture Acupressure and Moxibustion,CTEVT,3 years
+504,MSc Computer Science and Information Technology (MSc CSIT),Tribhuvan University,2 years
+505,Master in Development Studies (MDEVS),Pokhara University,2 years
+506,DM Emergency Medicine,Tribhuvan University,3 years
+507,BSc Horticulture and Floriculture Management,Tribhuvan University,4 years
+508,MD in Psychiatry,Tribhuvan University,3 years
+509,DM Cardiology,National Academy of Medical Sciences,3 years
+510,Bachelor in Optometry (B Optom),Tribhuvan University,4 years
+511,MSc Earthquake Engineering,Tribhuvan University,2 years
+512,MD in Paediatric,National Academy of Medical Sciences,3 years
+513,BSc Nursing,Tribhuvan University,4 years
+514,Bachelor of Dental Surgery (BDS),Tribhuvan University,5 years 6 months
+515,BSc Medical Laboratory Technology (B.Sc MLT),BPKIHS,4 years
+516,Bachelor of Business Studies (BBS),Mid-West University,4 years
+517,BSc Nursing,Kathmandu University,4 years
+518,Pre-Diploma in Community Medicine Assistant (CMA),CTEVT,1 year 3 months
+519,MEd in Political Science Education,Tribhuvan University,2 years
+520,MD in Ophthalmology,Tribhuvan University,3 years
+521,MBA in Information Technology (MBA-IT),Tribhuvan University,2 years
+522,Master of Technology in Information Technology (MTech in IT),Kathmandu University,2 years
+523,Bachelor of Public Health (BPH),Pokhara University,4 years
+524,BBA in Banking and Insurance (BBA-BI),Pokhara University,4 years
+525,Bachelor of Business Information System (BBIS),Kathmandu University,4 years
+526,Master of Business Administration (MBA),Tribhuvan University,2 years
+527,Pre-Diploma in Medical Lab Technology (Lab Assistant) (Lab Assistant),CTEVT,1 year 3 months
+528,MSc in Animal Science,Tribhuvan University,2 years
+529,Bachelor of Computer System and Information Technology (BCSIT),Pokhara University,4 years
+530,Master of Public Health (MPH),Purbanchal University,2 years
+531,MSc in Agriculture,Tribhuvan University,2 years
+532,MA in Applied Buddhism,Lumbini Buddhist University,2 years
+533,MD Anaesthesiology,Tribhuvan University,3 years
+534,Executive MBA (EMBA),Kathmandu University,2 years
+535,Bachelor of Information Technology (BIT),Purbanchal University,4 years
+536,MD Obstetrics and Gynaecology,Kathmandu University,2 years
+537,Master of Education in History Education (M.Ed),Tribhuvan University,2 years
+538,Bachelor of Travel and Tourism Studies (BTTS),Purbanchal University,3 years
+539,MSc in Aquaculture,Tribhuvan University,2 years
+540,CAP - II,The Institute of Chartered Accountants of Nepal (ICAN),9 months
+541,BSc in Botany,Mid-West University,4 years
+542,MD Obstetrics & Gynaecology,National Academy of Medical Sciences,3 years
+543,Bachelor of Public Administration (BPA),Tribhuvan University,4 years
+544,MA in Gender Studies,Tribhuvan University,2 years
+545,Ten Plus Two in Computer Engineering,National Examinations Board,2 years
+546,DM Gastroenterology,Tribhuvan University,3 years
+547,Executive MBA (EMBA),Pokhara University,2 years
+548,MA in Buddhist Studies,Kathmandu University,2 years
+549,MD Ophthalmology,National Academy of Medical Sciences,3 years
+550,DM Gastroenterology,National Academy of Medical Sciences,3 years
+551,Bachelor of Computer Science (Hons) - IT (BCS),"​Infrastructure University, Kuala Lumpur",3 years
+552,Master of Veterinary Science (MVSc),Tribhuvan University,2 years
+553,MA in Rural Development (MRD),Tribhuvan University,2 years
+554,MDS Conservative Dentistry and Endodontics,Tribhuvan University,3 years
+555,DM in Hepatology (DM in Hepatology),National Academy of Medical Sciences,3 years
+556,Master of Education (MEd),Purbanchal University,2 years
+557,Bachelor in Mathematical Sciences (Actuarial  Science) (BMathSc),Tribhuvan University,4 years
+558,Executive MBA (EMBA),Purbanchal University,2 years
+559,DM in Medical Oncology,National Academy of Medical Sciences,3 years
+560,CAP - III,The Institute of Chartered Accountants of Nepal (ICAN),3 years
+561,MPhil in Population Studies,Tribhuvan University,1 year 6 months
+562,Master of Hotel and Hospitality Management (MHHM),Purbanchal University,2 years
+563,Master of Public Health (MPH),BPKIHS,2 years
+564,BE in Civil Engineering (BE Civil),Kathmandu University,4 years
+565,Master of Public Health (MPH),Tribhuvan University,2 years
+566,MEd Nepali Language Education,Tribhuvan University,2 years
+567,MA in Sociology and Anthropology,Purbanchal University,2 years
+568,Master of Business Management (MBM),Tribhuvan University,2 years
+569,MSc in Human Anatomy,BPKIHS,3 years
+570,PCL General Medicine (Health Assistant),Karnali Academy of Health Sciences,3 years
+571,ME in Electrical Power Engineering,Kathmandu University,2 years
+572,Fellowship in Emergency Medicine (FEM),BPKIHS,1 year 6 months
+573,Master of Education General (M.Ed),Tribhuvan University,2 years
+574,MD Paediatrics,Tribhuvan University,3 years
+575,PhD in Nursing,BPKIHS,5 years
+576,MPhil in Management,Tribhuvan University,1 year 6 months
+577,BSc Fisheries,Agriculture and Forestry University,4 years
+578,MSc in Forestry,Tribhuvan University,2 years
+579,Master in Pharmacy (M Pharm),Kathmandu University,2 years
+580,ME in Computer Engineering (ME),Kathmandu University,2 years
+581,Master of Education in Economics Education,Tribhuvan University,2 years
+582,MD Radiotherapy,National Academy of Medical Sciences,3 years
+583,Master of Education in Geography Education (M.Ed),Tribhuvan University,2 years
+584,Master of Hospitality Management (MHM),Tribhuvan University,2 years
+585,MD Microbiology,Tribhuvan University,2 years
+586,Master of Education in Health Education (M.Ed),Tribhuvan University,2 years
+587,Bachelor of Pharmacy (B Pharm),Purbanchal University,4 years
+588,MSc in Transportation Engineering,Tribhuvan University,2 years
+589,MD Physiology,Kathmandu University,3 years
+590,Ten Plus Two in Civil Engineering,National Examinations Board,2 years
+591,PhD in Medical Biochemistry,BPKIHS,5 years
+592,Bachelor of Pharmacy (B Pharm),Tribhuvan University,4 years
+593,MSc in Medical Biochemistry,BPKIHS,3 years
+594,Bachelor of Dental Surgery (BDS),BPKIHS,5 years 6 months
+595,MSc in Medical Microbiology,BPKIHS,2 years
+596,Bachelor of Public Health (BPH),Tribhuvan University,4 years
+597,Master of Education in Physical Education (M.Ed),Tribhuvan University,2 years
+598,Bachelor in Midwifery Sciences (BMS),National Academy of Medical Sciences,3 years
+599,Bachelor of Pharmacy (B Pharm),Kathmandu University,4 years
+600,MSc Zoology,Tribhuvan University,2 years
+601,​MBA-Banking and Finance (MBA-BF),Tribhuvan University,2 years
+602,Advanced Diploma in Hospitality Management (ADHM),Scottish Qualifications Authority,21 months
+603,MD Pharmacology,Kathmandu University,3 years
+604,Bachelor of Ayurvedic Medicine and Surgery (BAMS),Tribhuvan University,5 years 6 months
+605,Master of Education in Population Education (M.Ed),Tribhuvan University,2 years
+606,MBA Finance and Control (MFC),Tribhuvan University,2 years
+607,MSc Chemistry,Tribhuvan University,2 years
+608,Bachelor of Ayurvedic Medicine and Surgery (BAMS),Nepal Sanskrit University,5 years 6 months
+609,Diploma in Global Culinary Arts,Scottish Qualifications Authority,1 year
+610,"Bachelor of Arts, Bachelor of Laws (BALLB)",Purbanchal University,5 years
+611,MBA in Entrepreneurship (MBA-E),Tribhuvan University,2 years
+612,MD Pathology,Kathmandu University,3 years
+613,Pre-Diploma In Livestock Production / Animal Health,CTEVT,1 year 6 months
+614,ACCA (ACCA),ACCA,3 years
+615,BTech Environmental Engineering,Kathmandu University,4 years
+616,MEd in Science Education,Tribhuvan University,2 years
+617,BSc (Hons) Multimedia Technologies,London Metropolitan University,3 years
+618,MSc in Information Technology (MSc IT),London Metropolitan University,2 years
+619,Bachelor Degree in Business Administration (BBA),London Metropolitan University,4 years
+620,Bachelor in Medical Laboratory Technology (BMLT),Tribhuvan University,4 years
+621,Pre-Diploma in Agriculture (Plant Science),CTEVT,1 year 3 months
+622,Bachelor of Geomatic Engineering (BE Geomatics),Purbanchal University,4 years
+623,Masters of Education in Mathematics Education,Tribhuvan University,2 years
+624,Pre-Diploma in Veterinary Science,CTEVT,1 year 6 months
+625,Ten Plus Two in Animal Science,National Examinations Board,2 years
+626,Bachelor in Audiology and Speech Language Pathology (BASLP),Tribhuvan University,4 years
+627,MSc in Computer System and Knowledge Engineering,Tribhuvan University,2 years
+628,MEd Curriculum and Evaluation,Tribhuvan University,2 years
+629,Ten Plus Two in Plant Science,National Examinations Board,2 years
+630,Bachelor in Media Studies (BMS),Kathmandu University,4 years
+631,MEd Education Planning and Management,Tribhuvan University,2 years
+632,Bachelor in Media Technology (BMT),Purbanchal University,4 years
+633,BBA Marketing,"SIAM University, Thailand",4 years
+634,Bachelor of Business Management and Bachelor of Law (BBM-LLB),Kathmandu University,5 years
+635,MSc Physics,Tribhuvan University,2 years
+636,BBA Finance and Banking,"SIAM University, Thailand",4 years
+637,MPhil Clinical Psychology,Tribhuvan University,2 years
+638,BE in Chemical Engineering (BE Chemical),Kathmandu University,4 years
+639,BArch in Architecture (B.Arch),Kathmandu University,5 years
+640,MD  Radio-Diagnosis (MD),National Academy of Medical Sciences,3 years
+641,MD Radio Diagnosis,Kathmandu University,3 years
+642,​MSc Mechanical Engineering in Design and Manufacturing,Tribhuvan University,2 years
+643,MD Pathology,National Academy of Medical Sciences,3 years
+644,MCh Gastrosurgery (MCH),National Academy of Medical Sciences,3 years
+645,MD Paediatrics,Kathmandu University,3 years
+646,MSc in Structural Engineering,Tribhuvan University,2 years
+647,MSc in Technology and Innovation Management,Tribhuvan University,2 years
+648,MSc in Urban Planning,Tribhuvan University,2 years
+649,MS Orthopaedic & Trauma Surgery,National Academy of Medical Sciences,3 years
+650,MSc in Construction Management,Tribhuvan University,2 years
+651,MSc in Information and Communication Engineering (MSICE),Tribhuvan University,2 years
+652,MSc in  Material Science and Engineering,Tribhuvan University,2 years
+653,MSc in Environmental Engineering,Tribhuvan University,2 years
+654,MS Ophthalmology,Kathmandu University,3 years
+655,PCL Nursing,CTEVT,3 years
+656,MSc in Disaster Risk Management,Tribhuvan University,2 years
+657,Diploma in Food/Dairy Technology,CTEVT,3 years
+658,MS in Orthopaedic and Trauma Surgery,Tribhuvan University,3 years
+659,DM Neonatology,BPKIHS,3 years
+660,DM Cardiology,Tribhuvan University,3 years
+661,DM Critical Care Medicine,Tribhuvan University,3 years
+662,PhD in Medical Microbiology,BPKIHS,5 years
+663,PhD in Education,Tribhuvan University,4 years
+664,PhD in Environmental Science,Kathmandu University,5 years
+665,PhD in Engineering,Tribhuvan University,3 years
+666,BSc Hons. in Hospitality Management (BHM),Lincoln University College,4 years
+667,Diploma in Hospitality Management (DHM),Scottish Qualifications Authority,15 months
+668,Pre-Diploma in Hotel Management,CTEVT,1 year 6 months
+669,MSc Engineering Geology,Tribhuvan University,2 years
+670,MSc Geology,Tribhuvan University,2 years
+671,BSc (Hons) Computing,UCSI University,4 years
+672,Bachelor of English and Communication Studies (BECS),Pokhara University,4 years
+673,BSc (Hons) in Computer Science (BIT),University of Wolverhampton,4 years
+674,Diploma in Entrepreneurship Development,CTEVT,3 years
+675,Diploma in Refrigeration and Air Conditioning (DRAE),CTEVT,3 years
+676,Pre-Diploma in Refrigeration and Air Conditioning,CTEVT,1 year 3 months
+677,BSc Medical Imaging Technology (BSc MIT),National Academy of Medical Sciences,4 years
+678,MSc Medical Imaging Technology (MSc MIT),National Academy of Medical Sciences,2 years
+679,PhD in Management,Tribhuvan University,5 years
+680,Bachelor in Hospitality Management (BHM),International Teaching University of Georgia,4 years
+681,M Pharm in Clinical Pharmacy,Pokhara University,2 years
+682,PhD in Environmental Science,Tribhuvan University,3 years
+683,PhD in Geology,Tribhuvan University,3 years
+684,PhD in Statistics,Tribhuvan University,3 years
+685,PhD in Mathematics,Tribhuvan University,3 years
+686,PhD in Microbiology,Tribhuvan University,3 years
+687,PhD in Biotechnology,Tribhuvan University,3 years
+688,PhD in Chemistry,Tribhuvan University,4 years
+689,PhD in Physics,Tribhuvan University,3 years
+690,PhD in Zoology,Tribhuvan University,3 years
+691,PhD in Hydrology and Meteorology,Tribhuvan University,3 years
+692,Level 2 Diploma in Aviation Environment,,
+693,Level 2 Diploma in Aviation Environment (Airport Ground Handling),,
+694,Flight Dispatcher Training,,
+695,BSc IT Database Administration,Asia Pacific University of Technology & Innovation,3 years
+696,Bachelor in Optometry and Vision Science,National Academy of Medical Sciences,4 years
+697,Master of Business Administration (MBA),London Metropolitan University,2 years
+698,Master in Sports Science (MSS),Tribhuvan University,2 years
+699,Master in Tourism and Hospitality Studies (MTHS),Tribhuvan University,2 years
+700,Masters in Environmental Administration and Management,Purbanchal University,2 years
+701,Masters in Tourism Management (MTM),Indira Gandhi National Open University,2 years
+702,Masters in Computer Application (MCA),Indira Gandhi National Open University,3 years
+703,MA in English (MEG),Indira Gandhi National Open University,2 years
+704,Bachelor’s Preparatory Programme (BPP),Indira Gandhi National Open University,6 months
+705,Diploma in Hotel Management- Australia Course Certification,,6 months
+706,Certificate -I in Barista,,1 month
+707,Certificate -I in Bartending,,1 month
+708,BSc (Hons) Mobile Application Development,London Metropolitan University,3 years
+709,Bachelor Degree in Accounting & Finance,London Metropolitan University,3 years
+710,Fundamental of Programming - neosphere,,6 months
+711,Java Programming- neosphere,,6 months
+712,.NET Programming- neosphere,,6 months
+713,​Open Source Programming- neosphere,,6 months
+714,Android Application Programming- neosphere,,6 months
+715,​Database Administration (SQL Server),,6 months
+716,Diploma in Information System Management (DISM),,6 months
+717,Bachelor of Business Administration (Hons) (BBA),"​Infrastructure University, Kuala Lumpur",4 years
+718,MTech Environmental Engineering,Kathmandu University,2 years
+719,MPhil Management,Purbanchal University,
+720,Bachelor in Midwifery Sciences (BMS),Karnali Academy of Health Sciences,3 years
+721,BSc in Forestry,Purbanchal University,4 years
+722,BSc Agriculture (BScAg),Far-Western University,4 years
+723,Diploma in Makeup Artistry,,1 month
+724,Masters in Professional Makeup Artistry,,3 months
+725,BSc Chemistry,Tribhuvan University,4 years
+726,BSc Botany,Tribhuvan University,4 years
+727,BSc Zoology,Tribhuvan University,4 years
+728,BSc Mathematics,Tribhuvan University,4 years
+729,BSc Statistics,Tribhuvan University,4 years
+730,Bachelor in Aerospace Engineering (BE),Tribhuvan University,4 years
+731,BSc in Computer Science and Information Technology (BSc CSIT),Mid-West University,4 years
+732,Bachelor of Hydropower Engineering,Mid-West University,4 years
+733,Bachelor of Information Technology (BIT),Lincoln University College,4 years
+734,Bachelor of Computer Science (Hons) Network Technology & Cyber Security (BCS),Lincoln University College,3 years
+735,Bachelor of Fashion Design and Management (BFDM),Purbanchal University,4 years
+736,Diploma in Fashion Design,,1 year
+737,Diploma in Interior Design,,15 months
+738,BSc in Computer Science and Information Technology (BSc CSIT),Far-Western University,4 years
+739,Master in Energy Efficient Building Design (EEBD),Kathmandu University,2 years
+740,MSc in Physics,Kathmandu University,2 years
+741,BBA Finance (BBA-Finance),Tribhuvan University,4 years
+742,BBA (Marketing) with International Business,London Metropolitan University,4 years
+743,BBA (Accounting & Finance) with International Business,London Metropolitan University,4 years
+744,BBA with Specialization in International Business,London Metropolitan University,4 years
+745,Master of Business Administration (MBA),Nepal Open University,2 years
+746,MS in Development Management and Governance (MSDMG),Nepal Open University,2 years
+747,Bachelor of Law (LLB),Nepal Open University,3 years
+748,Bachelor of Business Studies (BBS),Nepal Open University,3 years
+749,Bachelor of Computer Application (BCA),Rajarshi Janak University,4 years
+750,Bachelor of Business Administration (BBA),Rajarshi Janak University,4 years
+751,BSc Computer Science and Information Technology (BSc CSIT),Rajarshi Janak University,4 years
+752,BSc Medical Laboratory Technology (BSc MLT),Rajarshi Janak University,4 years
+753,MD in Radiology and Imaging,Patan Academy of Health Sciences,3 years
+754,MS in Otorhinolaryngology (ENT),Patan Academy of Health Sciences,3 years
+755,MD in Psychiatry,Patan Academy of Health Sciences,3 years
+756,Bachelor of Information and Communication Technology (BICT),Asia e University,4 years
+757,Master of Business Administration (MBA),Asia e University,2 years
+758,Six Months Training on Psycho-social Counseling,,6 months
+759,Bachelor of Public Health (BPH),Karnali Academy of Health Sciences,4 years
+760,Bachelor of Optometry (B Optom),Pokhara University,4 years
+761,​Bachelor of Nursing Science in Oncology,Pokhara University,3 years
+762,Pre-Diploma in Computer Engineering (Computer Sub-Overseer),CTEVT,1 year 3 months
+763,Chartered Institute of Management Accountants (CIMA),,3 years
+764,MPhil in Information and Communication Technology,Nepal Open University,1 year 6 months
+765,Master in e-Governance,Nepal Open University,2 years
+766,Bachelor of Physiotherapy (BPT),Pokhara University,4 years
+767,MPhil in English Education,Nepal Open University,1 year 6 months
+768,MPhil in Health Education,Nepal Open University,1 year 6 months
+769,MPhil in Mathematics Education,Nepal Open University,1 year 6 months
+770,MPhil in Social Sciences Education,Nepal Open University,1 year 6 months
+771,MPhil in Educational Studies,Nepal Open University,1 year 6 months
+772,MPhil in Nepali Education,Nepal Open University,1 year 6 months
+773,MPhil in Economics,Nepal Open University,1 year 6 months
+774,MPhil in Political Science,Nepal Open University,1 year 6 months
+775,MPhil in Sociology,Nepal Open University,1 year 6 months
+776,MBA-Evening (MBAe),Mid-West University,2 years
+777,​Bachelor of Business Administration (BBA),Far-Western University,4 years
+778,Master of Business Management (MBM),Far-Western University,2 years
+779,Bachelor of Business Studies (BBS),Far-Western University,4 years
+780,Master of Arts (MA),Far-Western University,2 years
+781,MSc in Animal Science,Agriculture and Forestry University,2 years
+782,Master of Veterinary Science (MVSc),Agriculture and Forestry University,2 years
+783,MSc in Fisheries (Aquaculture),Agriculture and Forestry University,2 years
+784,MPhil in Physics,Kathmandu University,1 year 6 months
+785,MPhil in Chemistry,Kathmandu University,1 year 6 months
+786,MPhil in Environmental Science,Kathmandu University,1 year 6 months
+787,Basic Remote Sensing Training,,
+788,MSc in Electrical Engineering in Power System,Pokhara University,2 years
+789,MSc in Hydropower Engineering,Pokhara University,2 years
+790,MA in Folklore and Cultural Studies,Mid-West University,2 years
+791,MSc in Medical Microbiology,Pokhara University,3 years
+792,MSc in Medical Biochemistry,Pokhara University,3 years
+793,MSc in Structural Engineering,Mid-West University,2 years
+794,MSc in Construction Management,Mid-West University,2 years
+795,Master of Optometry (M Optom),Pokhara University,2 years
+796,MSc in Public Health and Disaster Engineering (MSc PH),Pokhara University,2 years
+797,PhD in Management,Purbanchal University,5 years
+798,Bachelor of Midwifery (BMID),Kathmandu University,4 years
+799,MDS Conservative Dentistry and Endodontics,Kathmandu University,3 years
+800,MDS Periodontics,Kathmandu University,3 years
+801,Master in Nursing (MSc N),Kathmandu University,2 years
+802,MSc in Midwifery (MSc MID),Kathmandu University,2 years
+803,Diploma in Hydropower Engineering,CTEVT,3 years
+804,Bachelor of English Education (BEd),Far-Western University,4 years
+805,Pre-Diploma in Entrepreneurship Development,CTEVT,1 year 3 months
+806,Pre-Diploma in Computer Application and Secretarial Management,CTEVT,1 year 3 months
+807,Master in Pharmacy (Clinical Pharmacy),Purbanchal University,2 years
+808,BEd in Chinese Language Teaching (BEd in CLT),Kathmandu University,4 years
+809,Master in Technical and Vocational Education and Training (MTVET),Kathmandu University,2 years
+810,MEd in Leadership and Management - One Year,Kathmandu University,1 year
+811,PhD in Education,Kathmandu University,5 years
+812,Training on Application of GIS and Remote Sensing,,
+813,MPhil in STEAM Education,Kathmandu University,1 year 6 months
+814,Diploma in Journalism and Mass Communication (JMC),CTEVT,3 years
+815,Diploma in Social Work,CTEVT,3 years
+816,Community Livestock Assistant (CLA),CTEVT,3 months
+817,Off Season Vegetable Producer (OVP),CTEVT,3 months
+818,Community Agriculture Assistant (CAA),CTEVT,3 months
+819,Plumber,CTEVT,3 months
+820,Boiler Operator,CTEVT,3 months
+821,Motorcycle Mechanic,CTEVT,3 months
+822,Shuttering Carpenter,,3 months
+823,Computer Operator,CTEVT,
+824,Dairy Product / Sweet Maker,CTEVT,
+825,Assistant Florist,CTEVT,
+826,Bachelor of Business Administration (BBA),Nepal Open University,4 years
+827,Garden Designer,CTEVT,
+828,Flower Decorator (Florist),CTEVT,3 months
+829,Fruit Processor,CTEVT,3 months
+830,Herbal Farm Worker (HFW),CTEVT,3 months
+831,Geo-Engineering Assistant Lab Technician,,3 months
+832,BBA - Finance and Accountancy (BBA-FA),Tribhuvan University,4 years
+833,CMAT (Bachelor) Entrance Exam Preparation,,90 days
+834,Kathmandu University Law School Admissions Test (KULSAT),,
+835,Kathmandu University Undergraduate Management Admission Test (KUUMAT),,
+836,Bachelor of Engineering (B.E)/ Bachelor of Architecture (B.Arch) entrance exam,,
+837,Master in Geoinformatics,Nepal Open University,2 years
+838,Bachelor in Chemical Engineering,Tribhuvan University,4 years
+839,Higher Diploma in International Culinary Arts (DICA),"American Hospitality Academy, USA",3 years
+840,Kathmandu University School of Arts Admission Test (KUSAAT) (KUSAAT),,
+841,Bachelors in Information Technology (BIT),Tribhuvan University,4 years
+842,Master of Public Policy and Management (MPPM),Kathmandu University,2 years
+843,Food and Beverage Service,CTEVT,7 days
+844,Wine Appreciation,,
+845,Dining Etiquette,CTEVT,1 day
+846,BSc Laboratory Medicine,Kathmandu University,4 years
+847,BSc Medical Imaging Technology (BScMIT),Kathmandu University,4 years
+848,MS in Integrated Mountain Study,Tribhuvan University,2 years
+849,Fellowship in Urogynaecology (FU),BPKIHS,2 years
+850,Fellowship in Spine Surgery (FSS),BPKIHS,2 years
+851,Bachelor in Travel and Tourism Management with honors in Buddhism (BTTM),Lumbini Buddhist University,4 years
+852,PhD in English,Tribhuvan University,5 years
+853,PhD in Nepali,Tribhuvan University,5 years
+854,PhD in Anthropology,Tribhuvan University,5 years
+855,"Bachelor of Arts, Bachelor of Law (BALLB)",Lumbini Buddhist University,5 years
+856,PhD in Home Science,Tribhuvan University,5 years
+857,PhD in Economics,Tribhuvan University,5 years
+858,PhD in Geography,Tribhuvan University,5 years
+859,PhD in Political Science,Tribhuvan University,5 years
+860,PhD in History,Tribhuvan University,5 years
+861,"PhD in Nepali Culture, History and Archeology (PhD in NeHCA)",Tribhuvan University,5 years
+862,PhD in Rural Development (PhD in RD),Tribhuvan University,5 years
+863,PhD in Buddhist Studies,Tribhuvan University,5 years
+864,MSc Biochemistry,Tribhuvan University,2 years
+865,MSc in Public Health (Epidemiology/Global Health) (MSc PH),Kathmandu University,2 years 6 months
+866,BTEC HND in Hospitality Management leading to BHM,,3 years
+867,BTEC HND in Computing leading to BSc IT,,3 years
+868,BTEC HND in Business leading to BBA,,3 years
+869,Bachelor in Perfusion Technology (B Perf),Tribhuvan University,4 years
+870,Barista Training,,1 month
+871,Bartender Training Program,,2 months
+872,Waiter/Waitress Training,CTEVT,3 months
+873,Community AMCHI Assistant,CTEVT,2 years
+874,Bachelor in Public Service and Governance (BPSG),Tribhuvan University,4 years
+875,Bachelor in Hospitality Management (BHM),"EHE European University, EurAka, Switzerland",4 years
+876,BCS (IT) in Cyber Security & Networking,"EHE European University, EurAka, Switzerland",4 years
+877,Professional Diploma in Culinary Arts,EuroSkills Technical & Vocational Academy,
+878,Certificate in Front Office Management,CTEVT,
+879,Certificate in Housekeeping,CTEVT,
+880,Certificate in Cooking,CTEVT,
+881,Certificate in Waiter/Waitress Training,CTEVT,
+882,Professional Diploma in Hotel Management,EuroSkills Technical & Vocational Academy,
+883,Bachelor of Arts in Psychology (BPSy),Tribhuvan University,4 years
+884,Post Graduate Diploma in Yoga Science,Tribhuvan University,1 year
+885,Master of Adventure Tourism Studies (MATS),Tribhuvan University,2 years
+886,Undergraduate Program in Fashion Technology/ Design,,4 years
+887,MFA in Sculpture,Tribhuvan University,2 years
+888,MD Anaesthesiology,Pokhara Academy of Health Sciences,3 years
+889,MS in General Surgery,Pokhara Academy of Health Sciences,3 years
+890,MD in Internal Medicine,Pokhara Academy of Health Sciences,3 years
+891,MD in Obstetrics and Gynaecology,Pokhara Academy of Health Sciences,3 years
+892,MS in Orthopedics,Pokhara Academy of Health Sciences,3 years
+893,MD in Paediatrics,Pokhara Academy of Health Sciences,3 years
+894,MBS in Finance (MBS-F),Tribhuvan University,2 years
+895,Bachelor of Management Studies (BMS),Tribhuvan University,4 years
+896,Bachelor of Business Management-Applied (BBM Applied),Tribhuvan University,4 years
+897,MBA in Finance (MBA - F),Tribhuvan University,2 years
+898,BFA in Painting,Tribhuvan University,4 years
+899,Masters of Business Administration (MBA),Rajarshi Janak University,2 years
+900,BFA in Sculpture,Tribhuvan University,4 years
+901,BFA in Graphic Communications,Tribhuvan University,4 years
+902,BFA in Classical Dance,Tribhuvan University,4 years
+903,BFA in Classical Tabala,Tribhuvan University,4 years
+904,BFA in Classical Vocal | Instrumental,Tribhuvan University,4 years
+905,BSc (Hons) in Applied Accounting (B.Sc (Hons)),​Oxford Brookes University,3 years
+906,Diploma in International Financial Reporting Standards (DipIFR),ACCA,6 months
+907,BFA in Traditional Nepali Sculpture,Tribhuvan University,4 years
+908,BFA in Traditional Nepali Painting,Tribhuvan University,4 years
+909,MA in Labor Studies (MA Labor Studies),Tribhuvan University,2 years
+910,Fashion Designer,CTEVT,3 months
+911,Tailor Master,CTEVT,3 years
+912,Wooden Handicraft Maker,CTEVT,3 months
+913,Psychosocial Counselor,CTEVT,6 months
+914,Montessori Training,CTEVT,3 months
+915,Bachelor of Public Health (BPH),Rajarshi Janak University,4 years
+916,Trekking Guide Training,,2 months
+917,Caregiver Training,CTEVT,3 months
+918,Traditional Ayurveda Worker,CTEVT,3 years
+919,Dental Chair-side Assistant,CTEVT,3 months
+920,Dental Laboratory Mechanic (DLM),CTEVT,3 months
+921,Physical Rehabilitation Assistant,CTEVT,3 months
+922,Library Assistant,CTEVT,3 months
+923,MSc  in Environmental Health in Disaster,Tribhuvan University,2 years
+924,Bachelor of Arts in Geography (BA Geography),Tribhuvan University,4 years
+925,Assistant Coffee Technician,CTEVT,
+926,TSLC in Textile and Sericulture,CTEVT,15 months
+927,M Ed in STEAM Education (One Year),Kathmandu University,1 year
+928,Immers-ED: A Design Approach to Problem Solving,,
+929,Emotional Intelligence Mindset,,
+930,Transform Your Online Teaching,,
+931,MBA Job Holders,Pokhara University,
+932,Pre-Diploma in Forestry,CTEVT,1 year 6 months
+933,Bachelor of Arts - Bachelor of Legislative Law (BALLB),Mid-West University,5 years
+934,Culinary (Short-term Course),,
+935,Waiter/Waitress Training,,
+936,Dining Etiquette Training,,
+937,Bakery Training,,
+938,Housekeeping Training,,
+939,Front Office Training,,
+940,Food Safety/Hygiene Training,,
+941,Kids Cooking,,
+942,MSc in Rock and Tunnel Engineering,Tribhuvan University,
+943,Master in Security Management (MSM),Kathmandu University,2 years
+944,BSc Agriculture (BScAg),Kathmandu University,4 years
+945,Diploma in Beauty and Cosmetology,CTEVT,3 years
+946,Diploma in Fashion Design,,
+947,MPhil in Management,Mid-West University,21 months
+948,Master of Computer Science (MCS),Lincoln University College,2 years
+949,Bachelor in Professional Hospitality (BPH),Kathmandu University,4 years
+950,ME/MS in Geoinformatics,Kathmandu University,2 years
+951,ME/MS Sanitation Technology,Kathmandu University,2 years
+952,Master in Social Work (MSW),Mid-West University,2 years
+953,MA Nepali (MA Nepali),Mid-West University,2 years
+954,MA in Rural Development (MA Rural Development),Mid-West University,2 years
+955,MA in Sociology (MA Sociology),Mid-West University,2 years
+956,MA in English (MA English),Mid-West University,2 years
+957,MA in Conflict and Peace Studies,Mid-West University,2 years
+958,MA in Journalism and Mass Communication,Mid-West University,2 years
+959,Msc Agriculture (MSc Ag),Agriculture and Forestry University,2 years
+960,MSc in Agriculture (Biotechnology),Agriculture and Forestry University,2 years
+961,Ten Plus Two (Grade 11 and 12): National Examination Board,National Examinations Board,
+962,Bachelor of Arts Bachelor of Law (BALLB),Rajarshi Janak University,5 years
+963,Bachelor of Entrepreneurship Development (BED),Pokhara University,4 years
+964,MPhil in English (MPhil in English),Far-Western University,1 year 6 months
+965,"MPhil in Curriculum, Planning, and Leadership (MPhil CPL)",Far-Western University,1 year 6 months
+966,MPhil in Nepali (MPhil in Nepali),Far-Western University,1 year 6 months
+967,PhD in English (PhD English),Far-Western University,3 years
+968,PhD in Nepali (PhD Nepali),Far-Western University,3 years
+969,"PhD in Curriculum, Planning, and Leadership (PhD CPL)",Far-Western University,3 years
+970,MSc in Veterinary Science (Biotechnology),Agriculture and Forestry University,2 years
+971,MSc in Animal Science (Biotechnology),Agriculture and Forestry University,
+972,MSc Forestry,Agriculture and Forestry University,2 years
+973,Bachelor of Arts in Home Science (BA Home Science),Tribhuvan University,4 years
+974,Bachelor in Computer Engineering (BE Computer),Far-Western University,4 years
+975,MPhil in Social Science (Political Science and Economics),Nepal Open University,4 years 6 months
+976,Master Degree in Natural Resources Development (NRD),Nepal Open University,2 years
+977,Master in Educational Science (MES) Education Governance and Leadership Instructional Design and Technology (MES EGL & IDT),Nepal Open University,2 years
+978,Master in Data Science (MDS),Tribhuvan University,2 years
+979,MSc in Mechanical System Design and Engineering (MS-MSDE),Tribhuvan University,2 years
+980,MSc in Energy for Sustainable Social Development,Tribhuvan University,2 years
+981,MSc in Energy Efficient Building,Tribhuvan University,2 years
+982,Bachelor of Special Needs Education (B.Ed. SNE),Tribhuvan University,4 years 6 months
+983,Advanced Diploma in Fashion Design,CTEVT,16 months
+984,Diploma in Library and Information Management (DLIM),Nepal Open University,1 year
+985,MSc in Environmental and Occupational Health (MSc EOH),Nepal Open University,2 years
+986,MEd Special Needs Education,Tribhuvan University,2 years
+987,Bachelor of Mathematics,Tribhuvan University,4 years
+988,Bachelor of Arts in Philosophy,Tribhuvan University,4 years
+989,Bachelor in International Hospitality Management (BIHM),Ecole hôtelière de Lausanne,4 years
+990,Diploma in Bakery,CTEVT,
+991,Certificate III in Commercial Cookery (SIT30816),,
+992,Anesthesia Assistant,National Academy of Medical Sciences,1 year
+993,MSc in Bioinformatics (M.Sc. Bioinformatics),Pokhara University,2 years
+994,"MA Nepalese History, Culture and Archaeology (MA NeHCA)",Tribhuvan University,2 years
+995,Diploma in International Professional Culinary Arts,"American Hospitality Academy, USA",2 years
+996,Bachelor of Nursing Science in Midwifery (BNS MID),BPKIHS,3 years
+997,Bachelor in Perfusion Technology (B. Perf),BPKIHS,4 years
+998,Ten Plus Two (+2) Fine Arts (+2 Fine Arts),National Examinations Board,2 years
+999,Bachelor in Sports Management (BSM),Gandaki University,4 years
+1000,Bachelor of Information Technology (BIT),Gandaki University,4 years
+1001,Bachelor of Nursing Science (BNS),Madhesh Institute of Health Sciences,3 years
+1002,MD in Psychiatry,Kathmandu University,3 years
+1003,Bachelor of Public Health (BPH),Madhesh Institute of Health Sciences,4 years
+1004,BSc Medical Laboratory Technology (BSc MLT),Madhesh Institute of Health Sciences,4 years
+1005,BSc Nursing (BSc Nursing),Madhesh Institute of Health Sciences,4 years
+1006,MS in Orthopedics (MS Orthopedics),Kathmandu University,2 years
+1007,Master of Social Studies Education (MSSEd),Tribhuvan University,2 years 6 months
+1008,MBA in Corporate Leadership (MBA-CL),Tribhuvan University,2 years
+1009,MBA in Marketing (MBA-M),Tribhuvan University,2 years
+1010,Bachelor in Bhot Buddhist Studies,Lumbini Buddhist University,4 years
+1011,MEd in Early Child Development (MEd ECD),Kathmandu University,1 year
+1012,MA Governance and Anticorruption Studies,Tribhuvan University,2 years
+1013,MBBS,Karnali Academy of Health Sciences,5 years 6 months
+1014,Master in Training and Development,Kathmandu University,1 year
+1015,Postgraduate Diploma in Educational Management,Kathmandu University,1 year
+1016,Post Graduate Diploma in Mathematics Education,Kathmandu University,1 year
+1017,Post Graduate Diploma in Dietetics and Public Health Nutrition,Tribhuvan University,1 year
+1018,Master in Agro-Forestry (MAF),Lumbini Buddhist University,2 years
+1019,MA in Mahayana Buddhism,Lumbini Buddhist University,2 years
+1020,Bachelor in Sowa Rigpa Medicine and Surgery,Lumbini Buddhist University,5 years 6 months
+1021,MA in Museology and Buddhist Collections,Lumbini Buddhist University,2 years
+1022,MA in Archaeology and Buddhist Archaeological Sites,Lumbini Buddhist University,2 years
+1023,School Level,,
+1024,IB Primary Years Programme (IB PYP),International Baccalaureate,
+1025,IB Middle Years Programme (IB MYP),International Baccalaureate,
+1026,IB Diploma Programme,International Baccalaureate,
+1027,International Master of Business Administration (IMBA),University of Wolverhampton,2 years
+1028,Master of Information Technology (MIT),Purbanchal University,2 years
+1029,Bachelor of Pharmacy (B Pharm),Madan Bhandari Academy of Health Sciences,4 years
+1030,Bachelor of Public Health (BPH),Madan Bhandari Academy of Health Sciences,4 years
+1031,BSc Medical Laboratory Technology (BSc MLT),Madan Bhandari Academy of Health Sciences,4 years
+1032,BTech in Artificial Intelligence (BTech in AI),Kathmandu University,4 years
+1033,MTech in Artificial Intelligence (M Tech in AI),Kathmandu University,2 years
+1034,Diploma in Mechatronics Engineering,CTEVT,3 years
+1035,Post Graduate Diploma in Social Studies,Tribhuvan University,1 year
+1036,Post Graduate Diploma in Mathematics Education,Tribhuvan University,1 year
+1037,Diploma in Electronics Engineering,CTEVT,
+1038,PhD in English,Pokhara University,
+1039,BA (Hons) International Hospitality Management (BIHM),University of Wolverhampton,3 years
+1040,Bachelor of Pharmacy (B Pharm),Gandaki University,4 years
+1041,MA in Home Science - Specialization in Food and Nutrition,Tribhuvan University,2 years
+1042,MA in Home Science - Specialization in Child Development and Gender Socialization,Tribhuvan University,2 years
+1043,MBA Financial Management (MBA-FM),Tribhuvan University,2 years
+1044,BE in Mechanical Engineering (Hydropower) (BE Mechanical),Kathmandu University,4 years
+1045,BE in Mechanical Engineering (Automobile) (BE Mechanical),Kathmandu University,4 years
+1046,BE in Mechanical Engineering (Design & Manufacturing) (BE Mechanical),Kathmandu University,4 years
+1047,BE in Mechanical Engineering (Energy Technology) (BE Mechanical),Kathmandu University,4 years
+1048,Kathmandu University Common Admission Test (KUCAT-CBT),,
+1049,Teaching English to Speakers of Other Languages (TESOL),,
+1050,MSc in Computer Engineering Specialization in Data Science and Analytics,Tribhuvan University,2 years
+1051,Masters in Architecture,Tribhuvan University,2 years
+1052,MSc in Geospatial Engineering,Tribhuvan University,2 years
+1053,MSc in Informatics and Intelligent Systems Engineering,Tribhuvan University,2 years
+1054,MSc in Land and Water Engineering,Tribhuvan University,2 years
+1055,MSc in Hydropower Engineering,Tribhuvan University,2 years
+1056,MSc in Applied Mathematics,Tribhuvan University,2 years
+1057,MS Human Anatomy,BPKIHS,3 years
+1058,MD Biochemistry,BPKIHS,3 years
+1059,MD Community Medicine and Tropical Diseases,BPKIHS,3 years
+1060,MD Forensic Medicine and Toxicology,BPKIHS,3 years
+1061,MD Pharmacology,BPKIHS,3 years
+1062,MD in Basic and Clinical Physiology,BPKIHS,3 years
+1063,MD Microbiology and Infectious Diseases,BPKIHS,3 years
+1064,MD Pathology,BPKIHS,3 years
+1065,MD Anaesthesiology and Critical Care Medicine,BPKIHS,3 years
+1066,MD Dermatology and STD,BPKIHS,3 years
+1067,MD Gynecology and Obstetrics,BPKIHS,3 years
+1068,MD General Practice and Emergency Medicine,BPKIHS,3 years
+1069,MD Internal Medicine,BPKIHS,3 years
+1070,MD Ophthalmology,BPKIHS,3 years
+1071,MS Orthopedics,BPKIHS,3 years
+1072,MS Otorhinolaryngology and Head & Neck Surgery,BPKIHS,3 years
+1073,MD Pediatrics,BPKIHS,3 years
+1074,MD Psychiatry,BPKIHS,3 years
+1075,MD Radiodiagnosis and Imaging,BPKIHS,3 years
+1076,MS Surgery,BPKIHS,3 years
+1077,MSc Community Forestry,Tribhuvan University,2 years
+1078,MSc Mountain Environment and Development Studies,Tribhuvan University,2 years
+1079,Mphil in Statistics,Kathmandu University,1 year 6 months
+1080,Mphil in Computer Science,Kathmandu University,1 year 6 months
+1081,Mphil in Pharmacy,Kathmandu University,1 year 6 months
+1082,Mphil in Biotechnology,Kathmandu University,
+1083,MPhil in Environmental Engineering,Kathmandu University,
+1084,PhD in Physics,Kathmandu University,
+1085,PhD in Chemistry,Kathmandu University,
+1086,PhD in Mathematics,Kathmandu University,
+1087,PhD in Statistics,Kathmandu University,
+1088,PhD in Computer Science,Kathmandu University,
+1089,PhD in Pharmacy,Kathmandu University,
+1090,PhD in Biotechnology,Kathmandu University,
+1091,PhD in Environmental Engineering,Kathmandu University,
+1092,MD General Practice (MDGP),Kathmandu University,3 years
+1093,DM Endocrinology,National Academy of Medical Sciences,3 years
+1094,DM Medical Hematology,National Academy of Medical Sciences,3 years
+1095,MCh Paediatric Surgery,National Academy of Medical Sciences,3 years
+1096,DM Neonatology,Kathmandu University,3 years
+1097,DM Pulmonology,Kathmandu University,3 years
+1098,DM Pulmonology,National Academy of Medical Sciences,3 years
+1099,DM Critical Care Medicine,Kathmandu University,3 years
+1100,MSc IT & Applied Security,London Metropolitan University,2 years
+1101,BBA with Specialisation in Events and Tourism Management,London Metropolitan University,4 years
+1102,BBA with Specialization in Advertising and Marketing,London Metropolitan University,4 years
+1103,BBA with Specialization in Digital Business Management,London Metropolitan University,4 years
+1104,BSc (Hons) Computing with Artificial Intelligence,London Metropolitan University,3 years
+1105,BBA (International Business),London Metropolitan University,4 years
+1106,BSc (Hons) Computing,London Metropolitan University,3 years
+1107,Master of Arts in Nepal Bhasa,Tribhuvan University,2 years
+1108,Art of Thesis Writing,,
+1109,BA(Hons) Accounting,UCSI University,3 years
+1110,MSc in Sanitation Engineering,Tribhuvan University,2 years
+1111,MSc in Information System Engineering,Tribhuvan University,2 years
+1112,Certified Digital Marketing Professional Course,,3 months
+1113,Air Hostess Training,,
+1114,Nail extension/nail technician course,,
+1115,Ski Training,,
+1116,Bachelor of Economics and Bachelor of Law (BEc LLB),Kathmandu University,5 years
+1117,Bachelor of International Hospitality Management (Hons),"Taylor's University, Malaysia",4 years
+1118,Bachelor of Arts Bachelor of Laws (BALLB),Pokhara University,5 years
+1119,Diploma in Culinary Entrepreneurship,"American Hospitality Academy, USA",9 months
+1120,Fellowship in High Risk Pregnancy,Kathmandu University,24 months
+1121,Fellowship in Otology Surgery,Kathmandu University,12 months
+1122,Arabic Language Class,,
+1123,Chinese Language Class,,
+1124,French Language Class,,
+1125,German Language Class,,
+1126,Italian Language Class,,
+1127,Japanese Language Class,,
+1128,Korean Language Class,,
+1129,Russian Language Class,,
+1130,Spanish Language Class,,
+1131,BIT-Tribhuvan University Entrance Exam,Tribhuvan University,
+1132,Master of Fine Arts (MFA),Kathmandu University,2 years
+1133,Bachelor of Technical Education in Information Technology (B Tech Ed IT),Kathmandu University,4 years
+1134,Bachelor of Technical Education in Civil Engineering (B. Tech Ed),Kathmandu University,4 years
+1135,Bachelor of Technical Education in Mechanical Engineering (B. Tech Ed),Kathmandu University,4 years
+1136,Bachelor of Technical Education in Mechanical Engineering-Automobile (B. Tech Ed),Kathmandu University,4 years
+1137,Master in Development Studies (MDS),Lumbini Buddhist University,2 years
+1138,Master in Environmental Studies (MES),Lumbini Buddhist University,2 years
+1139,Master in Business and Economics (MBE),Kathmandu University,2 years
+1140,Bachelor in Traditional Buddhist Art (BTBA),Lumbini Buddhist University,4 years
+1141,Master in Pali Buddhist Studies,Lumbini Buddhist University,2 years
+1142,Master in Buddhism and Sustainable Development (MBSD),Lumbini Buddhist University,2 years
+1143,Bachelors in Arts (BA),Lumbini Buddhist University,
+1144,Master of Business Administration (MBA),Far-Western University,
+1145,Master of Education (MEd),Far-Western University,
+1146,Bachelor of Business Management (BBM),Far-Western University,
+1147,BSc Physics,Far-Western University,
+1148,Bachelor of Arts (BA),Far-Western University,
+1149,Bachelor of Arts in Social Work (BASW),Far-Western University,
+1150,Bachelor of Arts Bachelor of Law (BALLB),Far-Western University,
+1151,BSc Biology,Far-Western University,
+1152,Bachelor of Education (BEd),Far-Western University,
+1153,BEd Computer Science and Information Technology,,
+1154,IB Career-related Program (IB CP),International Baccalaureate,
+1155,Bachelor of Business Administration (BBA),Gandaki University,4 years
+1156,Bachelor of Arts Bachelor of Law (BALLB),Gandaki University,5 years
+1157,Bachelor in Electrical and Electronics Engineering (BEExE),Manmohan Technical University,4 years
+1158,Bachelor in Civil Engineering,Manmohan Technical University,4 years
+1159,PhD in Sociology,Tribhuvan University,5 years
+1160,Bachelor of Arts in Gender Studies,Tribhuvan University,4 years
+1161,International Early Years Curriculum (IEYC),International Curriculum Association,
+1162,International Primary Curriculum (IPC),International Curriculum Association,
+1163,International Middle Years Curriculum (IMYC),International Curriculum Association,
+1164,One Year B.Ed in Pedagogical Sciences,Nepal Open University,1 year
+1165,Pokhara University Management Admission Test (PUMAT),,
+1166,MPhil of Eastern Philosophy,Rajarshi Janak University,1 year 6 months
+1167,Master of Information Technology (MIT),"​Infrastructure University, Kuala Lumpur",
+1168,Master of Business Administration (MBA),"Glasgow Caledonian University, Scotland",2 years
+1169,Bachelor of Business Administration (BBA),"Glasgow Caledonian University, Scotland",4 years
+1170,Master in Urban Studies (MUS),Kathmandu University,2 years
+1171,Masters in Media Studies (MMS),Kathmandu University,2 years
+1172,Bachelor in Yogic Science and Wellbeing (BYSW),Kathmandu University,4 years
+1173,PhD in Management,Pokhara University,5 years
+1174,MPhil in Management,Pokhara University,
+1175,PhD in Development Studies (PhD Devs),Pokhara University,3 years
+1176,Bachelor of Science in Bioinformatics (BSc Bioinformatics),Kathmandu University,4 years
+1177,Master in Health Informatics,Kathmandu University,
+1178,Master of Science in Sanitary Engineering (MSc. Sanitary Engineering),Pokhara University,
+1179,Master of Business Studies (MBS),Far-Western University,
+1180,Bachelor in Computer Science (Hons),"Taylor's University, Malaysia",4 years
+1181,BTech in Artificial Intelligence (BTech in AI),Purbanchal University,4 years
+1182,Bachelor Degree in Social Work (BSW),Tribhuvan University,4 years
+1183,Bachelor of Science in Agriculture (Hons.) (BSc Ag),Madhesh Agricultural University,4 years
+1184,Bachelor of Arts,Nepal Open University,4 years
+1185,Master of Science in Physics (MSc Physics),Mid-West University,2 years
+1186,MSc in Computational Mathematics,Kathmandu University,2 years
+1187,MSc Advanced Computer Science,Keele University,2 years
+1188,BSc (Hons) Data Science,Keele University,4 years
+1189,Doctoral in Buddhist Studies (PhD in Buddhist Studies),Lumbini Buddhist University,3 years
+1190,Master in Development Studies (Mdevs),Kathmandu University,2 years
+1191,Master of Laws (LLM) in Energy and Infrastructure Law,Kathmandu University,2 years
+1192,Master of Educational Science in Digital Pedagogy (MES DP),Tribhuvan University,2 years
+1193,Master of Science in Mountain and Mountaineering Science (MSc MMS),Tribhuvan University,2 years
+1194,MA in Anthropology (MA Anthropology),Mid-West University,2 years
+1195,Bachelors in Midwifery Science (BMS),Patan Academy of Health Sciences,3 years
+1196,Bachelors in Midwifery Science,Tribhuvan University,3 years
+1197,Bachelor in Pharmacy (B.Pharm),Karnali Academy of Health Sciences,4 years
+1198,Bachelor in Pharmacy (B.Pharm),Manmohan Technical University,4 years
+1199,BSc Nursing,Madan Bhandari Academy of Health Sciences,4 years
+1200,BSc Nursing,National Academy of Medical Sciences,4 years
+1201,BSc Nursing,Pokhara Academy of Health Sciences,4 years
+1202,BSc Nursing,Rapti Academy of Health Sciences,4 years
+1203,Bachelor of Nursing Science (BNS),Karnali Academy of Health Sciences,3 years
+1204,Bachelor of Nursing Science (BNS),Pokhara Academy of Health Sciences,3 years
+1205,Bachelor of Nursing Science (BNS),Rapti Academy of Health Sciences,3 years
+1206,Master of Physiotherapy (MPT),Kathmandu University,3 years
+1207,Master in Nursing,Patan Academy of Health Sciences,2 years
+1208,MD/MS Clinical Science,Karnali Academy of Health Sciences,3 years
+1209,Master in Dental Surgery (MDS),Tribhuvan University,3 years
+1210,Master in Nursing,Tribhuvan University,2 years
+1211,Master in Dental Surgery (MDS),Kathmandu University,3 years
+1212,MD/MS,Madhesh Institute of Health Sciences,3 years
+1213,Master in Energy and Infrastructure Law (MEIL),Kathmandu University,2 years
+1214,MSc Health Policy and Management,Manmohan Technical University,2 years
+1215,MSc Nursing,BPKIHS,3 years
+1216,MSc Construction Project Management,Far-Western University,2 years
+1217,MD Anaesthesiology,Patan Academy of Health Sciences,3 years
+1218,MD Dermatology,Patan Academy of Health Sciences,3 years
+1219,MD Pathology,Patan Academy of Health Sciences,3 years
+1220,Bachelor of Craft and Design (BCDes),Kathmandu University,4 years
+1221,Bachelor Degree in Data Science (BDS),Tribhuvan University,4 years
+1222,PharmD (Post Baccalaureate),Kathmandu University,3 years
+1223,MSc in Environmental Science,Kathmandu University,2 years
+1224,MSc in Disaster Risk Engineering and Management,Lumbini Buddhist University,
+1225,MSc in Construction Engineering and Management,Lumbini Buddhist University,
+1226,MSc in Construction Management,Purbanchal University,2 years
+1227,MSc in Electrical Power Engineering,Purbanchal University,2 years
+1228,Master in Indigenous  Education and Development (One Year) (MIED),Kathmandu University,1 year
+1229,PhD in Education,Nepal Open University,3 years
+1230,Master in Writing and Literacy Studies (MWLS),Kathmandu University,2 years
+1231,MBA in Hospitality,Queen Margaret University (UK),2 years
+1232,Master of Education in School Counseling (One Year),Kathmandu University,1 year
+1233,Post Graduate Diploma in STEAM Education,Kathmandu University,1 year
+1234,Bridge Course for MEd in Mathematics Education,Kathmandu University,6 months
+1235,BSc (Hons) Computer Science and Artificial Intelligence,Birmingham City University,4 years
+1236,Kathmandu University Management Admission Test (KUMAT),,
+1237,Bachelor in Psychology (BPsych),Kathmandu University,4 years
+1238,"10+2 Computer Science - National Examination Board and NCC Education, UK (+2 Computer Science)",National Examinations Board,2 years
+1239,Professional Cook Training,CTEVT,6 months
+1240,Professional Carpentry Training,CTEVT,1 year
+1241,Receptionist Cum Cashier Training,CTEVT,3 months
+1242,Beautician Training,,3 months
+1243,Mobile Phone Repair Technician Training,CTEVT,
+1244,Crafting Cinema,Kathmandu University,45 days
+1245,National Licensure Examination for Nurses (NLEN),,
+1246,National Specialization Registration Examination for Nurses (NSREN),,
+1247,National Licensure Examination for Midwives (NLEM),,
+1248,Nepal Medical Council Licensing Exam (NMCLE),,
+1249,Diploma in Agricultural Engineering,CTEVT,
+1250,Diploma in Biomedical Engineering,CTEVT,3 years
+1251,Bachelor of Engineering in Mining Engineering,Kathmandu University,4 years
+1252,Bachelor of Arts in English with Honors,Purbanchal University,4 years
+1253,Master of Arts in English,Purbanchal University,2 years
+1254,BSc (Hons) Computer Science,The University of Westminster,4 years
+1255,BSc (Hons) Cyber Security and Forensics,The University of Westminster,4 years
+1256,Bachelor in Hospitality and Tourism Management (BHTM),Lumbini Buddhist University,
+1257,Advanced AI Program,,6 months
+1258,Bachelor of Technology in Computer Science and Artificial Intelligence (B.Tech in CS and AI),Lumbini Technological University,4 years
+1259,BTech in Information Technology (BTech in IT),Lumbini Technological University,4 years
+1260,Bachelor in Public Administration and Management (BPAM),Madhesh University,4 years
+1261,Bachelor of Arts and Bachelor of Laws (BALLB),Madhesh University,5 years
+1262,MSc Applied Computing and Information Technology with Project Management,University of Bedfordshire,2 years
+1263,Bsc (Computer Science & Software Engineering) Foundation (Bsc (CS & SE) Foundation),University of Bedfordshire,3 years
+1264,Bsc (Computer Science & Software Engineering) Top-Up (Bsc (CS & SE) Top-Up),University of Bedfordshire,1 year
+1265,BA (Hons) Business Administration (Top-Up) (BBA (Hons) Top-Up),University of Bedfordshire,1 year
+1266,BA (Hons) in Business Administration (Foundation) (BBA (Hons) Foundation),University of Bedfordshire,3 years
+1267,Bachelor of Science in Forestry (BSc Forestry) (BSc Forestry),Far-Western University,4 years
+1268,Bachelor of Law (LLB),Purbanchal University,3 years
+1269,Bachelor of Business Administration (BBA),"Nilai University, Malaysia",4 years
+1270,BSc Environmental Science,Mid-West University,4 years
+1271,BSc (Hons) Computer Science,"University of Northampton, UK",
+1272,Bachelor of Information Technology (BIT),Mid-West University,4 years
+1273,Bachelor of Social Studies Education (BSSED),Tribhuvan University,4 years
+1274,Bachelor of Business Administration (BBA),International American University,4 years
+1275,Master of Business Administration (MBA),International American University,2 years
+1276,BSc (Hons) Cyber Security and Digital Forensics,University of Sunderland,3 years
+1277,Master's in International Relations and Peace Studies,Lumbini Buddhist University,
+1278,PhD in Forest Biomaterials Science and Engineering,Madan Bhandari University of Science and Technology,
+1279,Master's in Forest Biomaterials Science and Engineering,Madan Bhandari University of Science and Technology,
+1280,PhD in Organic Agriculture,Madan Bhandari University of Science and Technology,
+1281,Master's in Organic Agriculture,Madan Bhandari University of Science and Technology,
+1282,Master's in Tourism Infrastructure,Madan Bhandari University of Science and Technology,
+1283,PCL Midwifery,CTEVT,3 years
+1284,Bsc (Hons) Computer Science,University of East London,3 years
+1285,Bsc (Hons) Data Science and Artificial Intelligence,University of East London,3 years
+1286,Bsc (Hons) Cyber Security and Networks,University of East London,3 years
+1287,BSc (Hons) Computer Science with AI,"Coventry University, UK",3 years
+1288,Bachelors of Information Technology (BIT),International American University,4 years
+1289,Master of Public Health (MPH),Karnali Academy of Health Sciences,
+1290,Master of Pharmacy (MPH),Karnali Academy of Health Sciences,
+1291,Masters in Economics (MECON),Kathmandu University,2 years
+1292,Master in Pedagogical Sciences (MPS),Nepal Open University,1 year
+1293,Master Degree in Media and Communication (MiMCS),Nepal Open University,
+1294,Bachelor of Science in Computer Science (BSCS),"Westcliff University, CA, USA",4 years
+1295,BBA FinTech,"Westcliff University, CA, USA",4 years
+1296,BBA Business Analytics,"Westcliff University, CA, USA",4 years
+1297,BSIT Software and Web App Development,"Westcliff University, CA, USA",4 years
+1298,"BSIT Network, Cybersecurity and Ethical Hacking","Westcliff University, CA, USA",4 years
+1299,BSIT Mobile App Development,"Westcliff University, CA, USA",4 years
+1300,PGD Education,Tribhuvan University,1 year 6 months
+1301,Hand Embroidery Course,CTEVT,3 months
+1302,Basic Fashion Design Course,CTEVT,3 months
+1303,Basic Cooking Course,CTEVT,3 months
+1304,Special Cooking Course,CTEVT,1 month
+1305,Basic Barista,CTEVT,21 days
+1306,Advanced Barista,CTEVT,3 months
+1307,Basic Bakery,CTEVT,1 month
+1308,Advanced Bakery,CTEVT,3 months
+1309,Diploma in Culinary Arts,CTEVT,
+1310,Vocational Diploma in Barista,,
+1311,Professional Barista,,
+1312,Ten Plus Two in Hotel Management (+2 in HM),,
+1313,International Air Hostess Training,,3 months
+1314,Diploma Cabin Crew Course,,4 months
+1315,Grooming & Personality Development,,10 days
+1316,Diploma in Airhostess Training,,
+1317,First Aid Training,,
+1318,Ground Staff/Handling Training,,
+1319,Bartending Training,,45 days
+1320,Advanced Integrated Animation (AIA),,
+1321,Computer Animation and Visual Effects,,
+1322,FX Houdini,,6 months
+1323,VFX,,
+1324,Masters in Cosmetology,,1 year
+1325,Diploma in Cosmetology,,6 months
+1326,International Diploma in Makeup,,3 months
+1327,Diploma in Makeup,,1 month
+1328,Italian Food Training,,
+1329,Diploma in Boutique Management with Retail Operation,,
+1330,Diploma in Fashion Accessories,,
+1331,Diploma in Pattern Construction,,
+1332,Web Development,,
+1333,Mobile App Development,,
+1334,Pre-Diploma in Bakery,CTEVT,6 months
+1335,Film Acting,,
+1336,Direction,,
+1337,Cinematography,,
+1338,Sound Design,,
+1339,Digital Marketing Course,,
+1340,Basic Boutique Course,,3 months
+1341,Advance Boutique Course,,6 months
+1342,Public Speaking Training,,
+1343,Psychological Counseling Training,,
+1344,Singapore Police Force,,
+1345,British Gurkha Army,,
+1346,Indian Gorkha Army,,
+1347,Nepal Army,,
+1348,Professional Cookery,,3 months
+1349,Engineering Exam Preparation,,
+1350,Level 2 Diploma in Air Cabin Crew,,
+1351,Advanced Diploma in International Tourism,,1 year
+1352,Aircraft Maintenance Engineering (AME),,
+1353,Acting Training,,3 months
+1354,Script Writing Training,,3 months
+1355,Directing Training,,3 months
+1356,Advance Diploma in CGI,,1 year 6 months
+1357,Advanced Diploma in CGI Designing & Animation,,2 years
+1358,Diploma in Character Animation,,6 months
+1359,Diploma in Graphic Design,,3 months
+1360,Makeup Training,,
+1361,Basic Beautician,CTEVT,
+1362,Advanced Beautician,CTEVT,
+1363,Diploma in Professional Culinary Art,International Executive School,1 year
+1364,Diploma in Professional Hotel Management,International Executive School,1 year
+1365,Diploma in Bakery Arts,International Executive School,
+1366,Advanced Barista,International Executive School,
+1367,Level 2 Diploma in Culinary Skills,CTH,
+1368,Level 2 Diploma in Patisserie and Confectionery Skills,CTH,
+1369,Level 3 Diploma in Professional Cookery,CTH,
+1370,Level 3 Diploma in Professional Cookery – Confectionery and Patisserie,CTH,
+1371,Level 3 Foundation Diploma in Hospitality and Tourism,CTH,
+1372,Level 4 Diploma in Tourism Management,CTH,
+1373,Level 4 Diploma in Hospitality Management,,
+1374,MA in Dance,Tribhuvan University,2 years
+1375,Bachelor of Information Technology (BIT),Kathmandu University,4 years
+1376,Master's of Applied Science in Artificial Intelligence,Madan Bhandari University of Science and Technology,
+1377,Master's of Applied Science in Data Science,Madan Bhandari University of Science and Technology,
+1378,MSc in Computer Engineering Specialization in Networks and Cyber Security,Tribhuvan University,2 years
+1379,Continental Cook,CTEVT,3 months
+1380,General Cook,CTEVT,3 months
+1381,Hotel Assistant,CTEVT,3 months
+1382,"Barista Skills- Introduction to Coffee, Foundation and Intermediate Course",CTEVT,15 days
+1383,PhD in Management,Mid-West University,5 years
+1384,PhD in Law,Tribhuvan University,
+1385,Bachelor in Aviation Management,Kathmandu University,4 years
+1386,MBA in Hospitality Managment,Lincoln University College,2 years
+1387,Masters in STEAM Education,Kathmandu University,2 years
+1388,Bachelor of Technical Education in Information Technology,Kathmandu University,4 years
+1389,"Bachelor of English Studies, Bachelor of Education (TESOL)",Kathmandu University,4 years
+1390,Master of Computer Application (MCA),Tribhuvan University,2 years
+1391,PhD in Health Sciences,Pokhara University,
+1392,MBA in Information Technology (MBA in IT),"Westcliff University, CA, USA",2 years
+1393,Nepal Financial Reporting Standards (NFRS),ACCA,6 months
+1394,Nepal Accounting Standards for Not-for Profit Organizations,ACCA,6 months
+1395,Master of Education in Inclusive and Special Needs Education,Kathmandu University,1 year
+1396,PGDE in Inclusive and Special Needs Education,Kathmandu University,1 year
+1397,Master of Education in School Counselling,Kathmandu University,2 years
+1398,Diploma in Special Needs Education,Kathmandu University,6 months
+1399,Master of Education in STEAM Education (2 Year),Kathmandu University,2 years
+1400,"Bachelor in Educational Sciences in Education, Planning and Management",Mid-West University,4 years
+1401,One Year Bachelor of Education (BEd),Nepal Sanskrit University,1 year
+1402,Uttar Madhyama,Nepal Sanskrit University,2 years
+1403,BSc Physics,Mid-West University,4 years
+1404,Shastri,Nepal Sanskrit University,3 years
+1405,MEd in English Language Education,Tribhuvan University,2 years
+1406,BSc Chemistry,Mid-West University,4 years
+1407,BSc in  Biochemistry,Purbanchal University,4 years
+1408,BSc in Statistics,Mid-West University,4 years
+1409,Bachelor of Commerce Studies (BCS),Purbanchal University,3 years
+1410,Bachelor of Interior Design (BID),Purbanchal University,4 years
+1411,Bachelor of Civil Engineering (BE Civil),Mid-West University,4 years
+1412,Bachelor of Arts (BA),Purbanchal University,4 years
+1413,Bachelor of Business Studies (BBS),Purbanchal University,3 years
+1414,Bachelor of Education (BEd),Purbanchal University,3 years
+1415,Bachelor of Computer Engineering (BE),Mid-West University,4 years
+1416,Bachelor of Arts in Development Economics (BA DE),Mid-West University,4 years
+1417,Bachelor of Arts in International Relations and Diplomacy (BA IR),Mid-West University,4 years
+1418,Master of Educational Sciences in English (MES English),Mid-West University,2 years
+1419,Bachelor in Educational Sciences in Health and Physical Education,Mid-West University,4 years
+1420,Bachelor in Educational Sciences in Mathematics,Mid-West University,4 years
+1421,Bachelor in Educational Sciences in English,Mid-West University,4 years
+1422,Bachelor of Arts in Mathematics (BSc Maths),Mid-West University,4 years
+1423,BSc Zoology,Mid-West University,4 years
+1424,MEd in English Language Teaching (MEd in ELT),Kathmandu University,2 years
+1425,Bachelor of Hospitality and Catering Management (BHCM),Purbanchal University,4 years
+1426,One year Bachelor of Education (BEd),Tribhuvan University,1 year
+1427,BA in Journalism and Mass Communication (BJMC),Purbanchal University,3 years
+1428,One year Bachelor's of Education (BEd),Purbanchal University,1 year
+1429,Bachelor of Arts in Linguistics (BA Linguistics),Tribhuvan University,4 years
+1430,Bachelor of Arts in Anthropology (BA Anthropology),Tribhuvan University,4 years
+1431,Bachelor of Arts in Music (BA Music),Tribhuvan University,4 years
+1432,"Bachelor of Arts in Nepalese History, Culture and Archaeology (BA NeHCA)",Tribhuvan University,4 years
+1433,Bachelor of Arts in Buddhist Studies (BA Buddhist Studies),Tribhuvan University,4 years
+1434,One year Bachelor of Education (BEd),Nepal Open University,1 year
+1435,Bachelor of Arts in Hindi (BA Hindi),Tribhuvan University,4 years
+1436,Bachelor of Arts in History (BA History),Tribhuvan University,4 years
+1437,Bachelor of Arts in Population Studies,Tribhuvan University,4 years
+1438,MEd in English Language Teaching (One Year) (M Ed in ELT),Kathmandu University,1 year
+1439,Bachelor of Arts in Journalism and Mass Communication (BJM),Mid-West University,4 years
+1440,Bachelor of Arts in Rural Development (BRD),Mid-West University,4 years
+1441,Bachelor of Arts in Sociology (BA Sociology),Mid-West University,4 years
+1442,Bachelor of Arts in English (BA English),Mid-West University,4 years
+1443,Bachelor of Arts in Strategic Studies (BA Strategic Studies),Tribhuvan University,4 years
+1444,Bachelor of Arts in Political Science (BA Political Science),Tribhuvan University,4 years
+1445,Bachelor of Arts in Dance (BA Dance),Tribhuvan University,4 years
+1446,Bachelor of Arts  in Economics (BA Economics),Tribhuvan University,4 years
+1447,Bachelor of Arts in Sanskrit (BA Sanskrit),Tribhuvan University,4 years
+1448,Bachelor of Arts in Nepal Bhasa (BA Nepal Bhasa),Tribhuvan University,4 years
+1449,Bachelors in Nepali (BA in Nepali),Tribhuvan University,4 years
+1450,Bachelor of Arts  in Maithili (BA Maithili),Tribhuvan University,4 years
+1451,BSc Agriculture (BSc Ag),Mid-West University,4 years
+1452,BSc Human Biology,Kathmandu University,4 years
+1453,Bachelor’s Degree Programme in Commerce (B.Com),Indira Gandhi National Open University,3 years
+1454,Bachelor of Arts (BA),Indira Gandhi National Open University,3 years
+1455,Bachelor's Degree in Tourism Studies (BTS),Indira Gandhi National Open University,3 years
+1456,Bachelor in Computer Applications (BCA),Indira Gandhi National Open University,3 years

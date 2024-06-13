@@ -1,0 +1,232 @@
+{
+    "count": 11,
+    "next": "http://branch2.localhost:8002/api/v1/clinic-statistical-report-app/diagnosis-vs-gender-wise-report/summary?limit=10&offset=10",
+    "previous": null,
+    "results": [
+        {
+            "diagnosisId": 375,
+            "disease": "Intestinal infections due to other specified Escherichia coli",
+            "code": "1A03.Y",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 373,
+            "disease": "Enteroinvasive Escherichia coli infection",
+            "code": "1A03.2",
+            "patients": {
+                "new": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 379,
+            "disease": "Gastroenteritis due to Campylobacter",
+            "code": "1A06",
+            "patients": {
+                "new": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 374,
+            "disease": "Enterohaemorrhagic Escherichia coli infection",
+            "code": "1A03.3",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 381,
+            "disease": "Typhoid peritonitis",
+            "code": "1A07.0",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 380,
+            "disease": "Typhoid fever",
+            "code": "1A07",
+            "patients": {
+                "new": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 376,
+            "disease": "Intestinal infections due to Escherichia coli, unspecified",
+            "code": "1A03.Z",
+            "patients": {
+                "new": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 1,
+                    "female": 0,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 378,
+            "disease": "Intestinal infections due to Yersinia enterocolitica",
+            "code": "1A05",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 384,
+            "disease": "Paratyphoid fever",
+            "code": "1A08",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        },
+        {
+            "diagnosisId": 383,
+            "disease": "Typhoid fever, unspecified",
+            "code": "1A07.Z",
+            "patients": {
+                "new": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                },
+                "old": {
+                    "male": 0,
+                    "female": 0,
+                    "other": 0
+                },
+                "total": {
+                    "male": 0,
+                    "female": 1,
+                    "other": 0
+                }
+            }
+        }
+    ],
+    "totals": {
+        "male": 4,
+        "female": 7,
+        "other": 0
+    }
+}
